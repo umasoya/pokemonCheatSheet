@@ -1,0 +1,2877 @@
+[
+  {
+    "zenkokuId": 906,
+    "paldeaId": 1,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a3/Menu_SV_0906.png/60px-Menu_SV_0906.png",
+    "name": "Sprigatito"
+  },
+  {
+    "zenkokuId": 907,
+    "paldeaId": 2,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f3/Menu_SV_0907.png/60px-Menu_SV_0907.png",
+    "name": "Floragato"
+  },
+  {
+    "zenkokuId": 908,
+    "paldeaId": 3,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/ec/Menu_SV_0908.png/60px-Menu_SV_0908.png",
+    "name": "Meowscarada",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/32/Pokedex_Image_Meowscarada_SV.png/256px-Pokedex_Image_Meowscarada_SV.png"
+  },
+  {
+    "zenkokuId": 909,
+    "paldeaId": 4,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/cc/Menu_SV_0909.png/60px-Menu_SV_0909.png",
+    "name": "Fuecoco"
+  },
+  {
+    "zenkokuId": 910,
+    "paldeaId": 5,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/67/Menu_SV_0910.png/60px-Menu_SV_0910.png",
+    "name": "Crocalor"
+  },
+  {
+    "zenkokuId": 911,
+    "paldeaId": 6,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/df/Menu_SV_0911.png/60px-Menu_SV_0911.png",
+    "name": "Skeledirge",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/32/Pokedex_Image_Skeledirge_SV.png/256px-Pokedex_Image_Skeledirge_SV.png"
+  },
+  {
+    "zenkokuId": 912,
+    "paldeaId": 7,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/09/Menu_SV_0912.png/60px-Menu_SV_0912.png",
+    "name": "Quaxly"
+  },
+  {
+    "zenkokuId": 913,
+    "paldeaId": 8,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/65/Menu_SV_0913.png/60px-Menu_SV_0913.png",
+    "name": "Quaxwell"
+  },
+  {
+    "zenkokuId": 914,
+    "paldeaId": 9,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9c/Menu_SV_0914.png/60px-Menu_SV_0914.png",
+    "name": "Quaquaval",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/45/Pokedex_Image_Quaquaval_SV.png/256px-Pokedex_Image_Quaquaval_SV.png"
+  },
+  {
+    "zenkokuId": 915,
+    "paldeaId": 10,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/7f/Menu_SV_0915.png/60px-Menu_SV_0915.png",
+    "name": "Lechonk"
+  },
+  {
+    "zenkokuId": 916,
+    "paldeaId": 11,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/97/Menu_SV_0916.png/60px-Menu_SV_0916.png",
+    "name": "OinkologneMale"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/37/Menu_SV_0916-Female.png/60px-Menu_SV_0916-Female.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": 917,
+    "paldeaId": 12,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/83/Menu_SV_0917.png/60px-Menu_SV_0917.png",
+    "name": "Tarountula"
+  },
+  {
+    "zenkokuId": 918,
+    "paldeaId": 13,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/0a/Menu_SV_0918.png/60px-Menu_SV_0918.png",
+    "name": "Spidops"
+  },
+  {
+    "zenkokuId": 919,
+    "paldeaId": 14,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/26/Menu_SV_0919.png/60px-Menu_SV_0919.png",
+    "name": "Nymble"
+  },
+  {
+    "zenkokuId": 920,
+    "paldeaId": 15,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/21/Menu_SV_0920.png/60px-Menu_SV_0920.png",
+    "name": "Lokix",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/8/8e/Pokedex_Image_Lokix_SV.png/256px-Pokedex_Image_Lokix_SV.png"
+  },
+  {
+    "zenkokuId": 187,
+    "paldeaId": 16,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/3f/Menu_SV_0187.png/60px-Menu_SV_0187.png",
+    "name": "Hoppip",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/12/Pokedex_Image_Hoppip_SV.png/256px-Pokedex_Image_Hoppip_SV.png"
+  },
+  {
+    "zenkokuId": 188,
+    "paldeaId": 17,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/55/Menu_SV_0188.png/60px-Menu_SV_0188.png",
+    "name": "Skiploom",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/2b/Pokedex_Image_Skiploom_SV.png/256px-Pokedex_Image_Skiploom_SV.png"
+  },
+  {
+    "zenkokuId": 189,
+    "paldeaId": 18,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b7/Menu_SV_0189.png/60px-Menu_SV_0189.png",
+    "name": "Jumpluff",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/f6/Pokedex_Image_Jumpluff_SV.png/256px-Pokedex_Image_Jumpluff_SV.png"
+  },
+  {
+    "zenkokuId": 661,
+    "paldeaId": 19,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/3b/Menu_SV_0661.png/60px-Menu_SV_0661.png",
+    "name": "Fletchling",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/f2/Pokedex_Image_Fletchling_SV.png/256px-Pokedex_Image_Fletchling_SV.png"
+  },
+  {
+    "zenkokuId": 662,
+    "paldeaId": 20,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c3/Menu_SV_0662.png/60px-Menu_SV_0662.png",
+    "name": "Fletchinder",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/52/Pokedex_Image_Fletchinder_SV.png/256px-Pokedex_Image_Fletchinder_SV.png"
+  },
+  {
+    "zenkokuId": 663,
+    "paldeaId": 21,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/bd/Menu_SV_0663.png/60px-Menu_SV_0663.png",
+    "name": "Talonflame",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/d5/Pokedex_Image_Talonflame_SV.png/256px-Pokedex_Image_Talonflame_SV.png"
+  },
+  {
+    "zenkokuId": 921,
+    "paldeaId": 22,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/72/Menu_SV_0921.png/60px-Menu_SV_0921.png",
+    "name": "Pawmi"
+  },
+  {
+    "zenkokuId": 922,
+    "paldeaId": 23,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/db/Menu_SV_0922.png/60px-Menu_SV_0922.png",
+    "name": "Pawmo",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/f4/Pokedex_Image_Pawmo_SV.png/256px-Pokedex_Image_Pawmo_SV.png"
+  },
+  {
+    "zenkokuId": 923,
+    "paldeaId": 24,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8b/Menu_SV_0923.png/60px-Menu_SV_0923.png",
+    "name": "Pawmot",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/97/Pokedex_Image_Pawmot_SV.png/256px-Pokedex_Image_Pawmot_SV.png"
+  },
+  {
+    "zenkokuId": 228,
+    "paldeaId": 25,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/ac/Menu_SV_0228.png/60px-Menu_SV_0228.png",
+    "name": "Houndour",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/24/Pokedex_Image_Houndour_SV.png/256px-Pokedex_Image_Houndour_SV.png"
+  },
+  {
+    "zenkokuId": 229,
+    "paldeaId": 26,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/ae/Menu_SV_0229.png/60px-Menu_SV_0229.png",
+    "name": "Houndoom",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/7/7d/Pokedex_Image_Houndoom_SV.png/256px-Pokedex_Image_Houndoom_SV.png"
+  },
+  {
+    "zenkokuId": 734,
+    "paldeaId": 27,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/17/Menu_SV_0734.png/60px-Menu_SV_0734.png",
+    "name": "Yungoos"
+  },
+  {
+    "zenkokuId": 735,
+    "paldeaId": 28,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/04/Menu_SV_0735.png/60px-Menu_SV_0735.png",
+    "name": "Gumshoos"
+  },
+  {
+    "zenkokuId": 819,
+    "paldeaId": 29,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6f/Menu_SV_0819.png/60px-Menu_SV_0819.png",
+    "name": "Skwovet"
+  },
+  {
+    "zenkokuId": 820,
+    "paldeaId": 30,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b6/Menu_SV_0820.png/60px-Menu_SV_0820.png",
+    "name": "Greedent"
+  },
+  {
+    "zenkokuId": 191,
+    "paldeaId": 31,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/81/Menu_SV_0191.png/60px-Menu_SV_0191.png",
+    "name": "Sunkern"
+  },
+  {
+    "zenkokuId": 192,
+    "paldeaId": 32,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/75/Menu_SV_0192.png/60px-Menu_SV_0192.png",
+    "name": "Sunflora"
+  },
+  {
+    "zenkokuId": 401,
+    "paldeaId": 33,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/44/Menu_SV_0401.png/60px-Menu_SV_0401.png",
+    "name": "Kricketot"
+  },
+  {
+    "zenkokuId": 402,
+    "paldeaId": 34,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/54/Menu_SV_0402.png/60px-Menu_SV_0402.png",
+    "name": "Kricketune"
+  },
+  {
+    "zenkokuId": 664,
+    "paldeaId": 35,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/cf/Menu_SV_0664.png/60px-Menu_SV_0664.png",
+    "name": "Scatterbug"
+  },
+  {
+    "zenkokuId": 665,
+    "paldeaId": 36,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/78/Menu_SV_0665.png/60px-Menu_SV_0665.png",
+    "name": "Spewpa"
+  },
+  {
+    "zenkokuId": 666,
+    "paldeaId": 37,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d0/Menu_SV_0666-Fancy.png/60px-Menu_SV_0666-Fancy.png",
+    "name": "VivillonFancy Pattern",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/48/Pokedex_Image_Vivillon_SV.png/256px-Pokedex_Image_Vivillon_SV.png"
+  },
+  {
+    "zenkokuId": 415,
+    "paldeaId": 38,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/1e/Menu_SV_0415.png/60px-Menu_SV_0415.png",
+    "name": "Combee",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/b/b8/Pokedex_Image_Combee_SV.png/256px-Pokedex_Image_Combee_SV.png"
+  },
+  {
+    "zenkokuId": 416,
+    "paldeaId": 39,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f1/Menu_SV_0416.png/60px-Menu_SV_0416.png",
+    "name": "Vespiquen",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/df/Pokedex_Image_Vespiquen_SV.png/256px-Pokedex_Image_Vespiquen_SV.png"
+  },
+  {
+    "zenkokuId": 821,
+    "paldeaId": 40,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/96/Menu_SV_0821.png/60px-Menu_SV_0821.png",
+    "name": "Rookidee"
+  },
+  {
+    "zenkokuId": 822,
+    "paldeaId": 41,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b4/Menu_SV_0822.png/60px-Menu_SV_0822.png",
+    "name": "Corvisquire"
+  },
+  {
+    "zenkokuId": 823,
+    "paldeaId": 42,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/78/Menu_SV_0823.png/60px-Menu_SV_0823.png",
+    "name": "Corviknight",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/7/72/Pokedex_Image_Corviknight_SV.png/256px-Pokedex_Image_Corviknight_SV.png"
+  },
+  {
+    "zenkokuId": 440,
+    "paldeaId": 43,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a1/Menu_SV_0440.png/60px-Menu_SV_0440.png",
+    "name": "Happiny"
+  },
+  {
+    "zenkokuId": 113,
+    "paldeaId": 44,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d7/Menu_SV_0113.png/60px-Menu_SV_0113.png",
+    "name": "Chansey"
+  },
+  {
+    "zenkokuId": 242,
+    "paldeaId": 45,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/37/Menu_SV_0242.png/60px-Menu_SV_0242.png",
+    "name": "Blissey"
+  },
+  {
+    "zenkokuId": 298,
+    "paldeaId": 46,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/5d/Menu_SV_0298.png/60px-Menu_SV_0298.png",
+    "name": "Azurill",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/de/Pokedex_Image_Azurill_SV.png/256px-Pokedex_Image_Azurill_SV.png"
+  },
+  {
+    "zenkokuId": 183,
+    "paldeaId": 47,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/95/Menu_SV_0183.png/60px-Menu_SV_0183.png",
+    "name": "Marill",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/36/Pokedex_Image_Marill_SV.png/256px-Pokedex_Image_Marill_SV.png"
+  },
+  {
+    "zenkokuId": 184,
+    "paldeaId": 48,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/1a/Menu_SV_0184.png/60px-Menu_SV_0184.png",
+    "name": "Azumarill",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/48/Pokedex_Image_Azumarill_SV.png/256px-Pokedex_Image_Azumarill_SV.png"
+  },
+  {
+    "zenkokuId": 283,
+    "paldeaId": 49,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d1/Menu_SV_0283.png/60px-Menu_SV_0283.png",
+    "name": "Surskit",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/0/0e/Pokedex_Image_Surskit_SV.png/256px-Pokedex_Image_Surskit_SV.png"
+  },
+  {
+    "zenkokuId": 284,
+    "paldeaId": 50,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/16/Menu_SV_0284.png/60px-Menu_SV_0284.png",
+    "name": "Masquerain",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/a9/Pokedex_Image_Masquerain_SV.png/256px-Pokedex_Image_Masquerain_SV.png"
+  },
+  {
+    "zenkokuId": 418,
+    "paldeaId": 51,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/51/Menu_SV_0418.png/60px-Menu_SV_0418.png",
+    "name": "Buizel"
+  },
+  {
+    "zenkokuId": 419,
+    "paldeaId": 52,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/22/Menu_SV_0419.png/60px-Menu_SV_0419.png",
+    "name": "Floatzel"
+  },
+  {
+    "zenkokuId": 194,
+    "paldeaId": 53,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b4/Menu_SV_0194-Paldea.png/60px-Menu_SV_0194-Paldea.png",
+    "name": "WooperPaldean Form",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/6f/Pokedex_Image_Wooper_SV.png/256px-Pokedex_Image_Wooper_SV.png"
+  },
+  {
+    "zenkokuId": 980,
+    "paldeaId": 54,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/3b/Menu_SV_0980.png/60px-Menu_SV_0980.png",
+    "name": "Clodsire",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/e/eb/Pokedex_Image_Clodsire_SV.png/256px-Pokedex_Image_Clodsire_SV.png"
+  },
+  {
+    "zenkokuId": 54,
+    "paldeaId": 55,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9c/Menu_SV_0054.png/60px-Menu_SV_0054.png",
+    "name": "Psyduck"
+  },
+  {
+    "zenkokuId": 55,
+    "paldeaId": 56,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/99/Menu_SV_0055.png/60px-Menu_SV_0055.png",
+    "name": "Golduck"
+  },
+  {
+    "zenkokuId": 833,
+    "paldeaId": 57,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/79/Menu_SV_0833.png/60px-Menu_SV_0833.png",
+    "name": "Chewtle"
+  },
+  {
+    "zenkokuId": 834,
+    "paldeaId": 58,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/ab/Menu_SV_0834.png/60px-Menu_SV_0834.png",
+    "name": "Drednaw",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/29/Pokedex_Image_Drednaw_SV.png/256px-Pokedex_Image_Drednaw_SV.png"
+  },
+  {
+    "zenkokuId": 174,
+    "paldeaId": 59,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/5d/Menu_SV_0174.png/60px-Menu_SV_0174.png",
+    "name": "Igglybuff",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/2b/Pokedex_Image_Igglybuff_SV.png/256px-Pokedex_Image_Igglybuff_SV.png"
+  },
+  {
+    "zenkokuId": 39,
+    "paldeaId": 60,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f0/Menu_SV_0039.png/60px-Menu_SV_0039.png",
+    "name": "Jigglypuff",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/8/88/Pokedex_Image_Jigglypuff_SV.png/256px-Pokedex_Image_Jigglypuff_SV.png"
+  },
+  {
+    "zenkokuId": 40,
+    "paldeaId": 61,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/62/Menu_SV_0040.png/60px-Menu_SV_0040.png",
+    "name": "Wigglytuff",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/7/71/Pokedex_Image_Wigglytuff_SV.png/256px-Pokedex_Image_Wigglytuff_SV.png"
+  },
+  {
+    "zenkokuId": 280,
+    "paldeaId": 62,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/12/Menu_SV_0280.png/60px-Menu_SV_0280.png",
+    "name": "Ralts",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/2b/Pokedex_Image_Ralts_SV.png/256px-Pokedex_Image_Ralts_SV.png"
+  },
+  {
+    "zenkokuId": 281,
+    "paldeaId": 63,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/dd/Menu_SV_0281.png/60px-Menu_SV_0281.png",
+    "name": "Kirlia",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/f8/Pokedex_Image_Kirlia_SV.png/256px-Pokedex_Image_Kirlia_SV.png"
+  },
+  {
+    "zenkokuId": 282,
+    "paldeaId": 64,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/02/Menu_SV_0282.png/60px-Menu_SV_0282.png",
+    "name": "Gardevoir",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/48/Pokedex_Image_Gardevoir_SV.png/256px-Pokedex_Image_Gardevoir_SV.png"
+  },
+  {
+    "zenkokuId": 475,
+    "paldeaId": 65,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/78/Menu_SV_0475.png/60px-Menu_SV_0475.png",
+    "name": "Gallade",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/b/b6/Pokedex_Image_Gallade_SV.png/256px-Pokedex_Image_Gallade_SV.png"
+  },
+  {
+    "zenkokuId": 96,
+    "paldeaId": 66,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8d/Menu_SV_0096.png/60px-Menu_SV_0096.png",
+    "name": "Drowzee"
+  },
+  {
+    "zenkokuId": 97,
+    "paldeaId": 67,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/34/Menu_SV_0097.png/60px-Menu_SV_0097.png",
+    "name": "Hypno"
+  },
+  {
+    "zenkokuId": 92,
+    "paldeaId": 68,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b1/Menu_SV_0092.png/60px-Menu_SV_0092.png",
+    "name": "Gastly",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/8/83/Pokedex_Image_Gastly_SV.png/256px-Pokedex_Image_Gastly_SV.png"
+  },
+  {
+    "zenkokuId": 93,
+    "paldeaId": 69,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b5/Menu_SV_0093.png/60px-Menu_SV_0093.png",
+    "name": "Haunter",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/46/Pokedex_Image_Haunter_SV.png/256px-Pokedex_Image_Haunter_SV.png"
+  },
+  {
+    "zenkokuId": 94,
+    "paldeaId": 70,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8f/Menu_SV_0094.png/60px-Menu_SV_0094.png",
+    "name": "Gengar",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/c/c4/Pokedex_Image_Gengar_SV.png/256px-Pokedex_Image_Gengar_SV.png"
+  },
+  {
+    "zenkokuId": 924,
+    "paldeaId": 71,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/84/Menu_SV_0924.png/60px-Menu_SV_0924.png",
+    "name": "Tandemaus"
+  },
+  {
+    "zenkokuId": 925,
+    "paldeaId": 72,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/2c/Menu_SV_0925.png/60px-Menu_SV_0925.png",
+    "name": "MausholdFamily of Four"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/ff/Menu_SV_0925-Three.png/60px-Menu_SV_0925-Three.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": 172,
+    "paldeaId": 73,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f7/Menu_SV_0172.png/60px-Menu_SV_0172.png",
+    "name": "Pichu"
+  },
+  {
+    "zenkokuId": 25,
+    "paldeaId": 74,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a7/Menu_SV_0025.png/60px-Menu_SV_0025.png",
+    "name": "Pikachu"
+  },
+  {
+    "zenkokuId": 26,
+    "paldeaId": 75,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/0d/Menu_SV_0026.png/60px-Menu_SV_0026.png",
+    "name": "Raichu"
+  },
+  {
+    "zenkokuId": 926,
+    "paldeaId": 76,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/7a/Menu_SV_0926.png/60px-Menu_SV_0926.png",
+    "name": "Fidough"
+  },
+  {
+    "zenkokuId": 927,
+    "paldeaId": 77,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/67/Menu_SV_0927.png/60px-Menu_SV_0927.png",
+    "name": "Dachsbun"
+  },
+  {
+    "zenkokuId": 287,
+    "paldeaId": 78,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/43/Menu_SV_0287.png/60px-Menu_SV_0287.png",
+    "name": "Slakoth"
+  },
+  {
+    "zenkokuId": 288,
+    "paldeaId": 79,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/23/Menu_SV_0288.png/60px-Menu_SV_0288.png",
+    "name": "Vigoroth"
+  },
+  {
+    "zenkokuId": 289,
+    "paldeaId": 80,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/49/Menu_SV_0289.png/60px-Menu_SV_0289.png",
+    "name": "Slaking"
+  },
+  {
+    "zenkokuId": 761,
+    "paldeaId": 81,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e3/Menu_SV_0761.png/60px-Menu_SV_0761.png",
+    "name": "Bounsweet"
+  },
+  {
+    "zenkokuId": 762,
+    "paldeaId": 82,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c2/Menu_SV_0762.png/60px-Menu_SV_0762.png",
+    "name": "Steenee"
+  },
+  {
+    "zenkokuId": 763,
+    "paldeaId": 83,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/0c/Menu_SV_0763.png/60px-Menu_SV_0763.png",
+    "name": "Tsareena"
+  },
+  {
+    "zenkokuId": 928,
+    "paldeaId": 84,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/78/Menu_SV_0928.png/60px-Menu_SV_0928.png",
+    "name": "Smoliv",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/f0/Pokedex_Image_Smoliv_SV.png/256px-Pokedex_Image_Smoliv_SV.png"
+  },
+  {
+    "zenkokuId": 929,
+    "paldeaId": 85,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/47/Menu_SV_0929.png/60px-Menu_SV_0929.png",
+    "name": "Dolliv",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/49/Pokedex_Image_Dolliv_SV.png/256px-Pokedex_Image_Dolliv_SV.png"
+  },
+  {
+    "zenkokuId": 930,
+    "paldeaId": 86,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8b/Menu_SV_0930.png/60px-Menu_SV_0930.png",
+    "name": "Arboliva",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/91/Pokedex_Image_Arboliva_SV.png/256px-Pokedex_Image_Arboliva_SV.png"
+  },
+  {
+    "zenkokuId": 438,
+    "paldeaId": 87,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/64/Menu_SV_0438.png/60px-Menu_SV_0438.png",
+    "name": "Bonsly"
+  },
+  {
+    "zenkokuId": 185,
+    "paldeaId": 88,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b0/Menu_SV_0185.png/60px-Menu_SV_0185.png",
+    "name": "Sudowoodo"
+  },
+  {
+    "zenkokuId": 744,
+    "paldeaId": 89,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/2c/Menu_SV_0744.png/60px-Menu_SV_0744.png",
+    "name": "Rockruff"
+  },
+  {
+    "zenkokuId": 745,
+    "paldeaId": 90,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/10/Menu_SV_0745.png/60px-Menu_SV_0745.png",
+    "name": "LycanrocMidday Form"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/4e/Menu_SV_0745-Midnight.png/60px-Menu_SV_0745-Midnight.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a4/Menu_SV_0745-Dusk.png/60px-Menu_SV_0745-Dusk.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": 837,
+    "paldeaId": 91,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/36/Menu_SV_0837.png/60px-Menu_SV_0837.png",
+    "name": "Rolycoly"
+  },
+  {
+    "zenkokuId": 838,
+    "paldeaId": 92,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a7/Menu_SV_0838.png/60px-Menu_SV_0838.png",
+    "name": "Carkol",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/c/c4/Pokedex_Image_Carkol_SV.png/256px-Pokedex_Image_Carkol_SV.png"
+  },
+  {
+    "zenkokuId": 839,
+    "paldeaId": 93,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/34/Menu_SV_0839.png/60px-Menu_SV_0839.png",
+    "name": "Coalossal",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/a5/Pokedex_Image_Coalossal_SV.png/256px-Pokedex_Image_Coalossal_SV.png"
+  },
+  {
+    "zenkokuId": 403,
+    "paldeaId": 94,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/ce/Menu_SV_0403.png/60px-Menu_SV_0403.png",
+    "name": "Shinx"
+  },
+  {
+    "zenkokuId": 404,
+    "paldeaId": 95,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d9/Menu_SV_0404.png/60px-Menu_SV_0404.png",
+    "name": "Luxio"
+  },
+  {
+    "zenkokuId": 405,
+    "paldeaId": 96,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e6/Menu_SV_0405.png/60px-Menu_SV_0405.png",
+    "name": "Luxray"
+  },
+  {
+    "zenkokuId": 396,
+    "paldeaId": 97,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/53/Menu_SV_0396.png/60px-Menu_SV_0396.png",
+    "name": "Starly",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/aa/Pokedex_Image_Starly_SV.png/256px-Pokedex_Image_Starly_SV.png"
+  },
+  {
+    "zenkokuId": 397,
+    "paldeaId": 98,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b2/Menu_SV_0397.png/60px-Menu_SV_0397.png",
+    "name": "Staravia",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/a4/Pokedex_Image_Staravia_SV.png/256px-Pokedex_Image_Staravia_SV.png"
+  },
+  {
+    "zenkokuId": 398,
+    "paldeaId": 99,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/bf/Menu_SV_0398.png/60px-Menu_SV_0398.png",
+    "name": "Staraptor",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/f4/Pokedex_Image_Staraptor_SV.png/256px-Pokedex_Image_Staraptor_SV.png"
+  },
+  {
+    "zenkokuId": 741,
+    "paldeaId": 100,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/cc/Menu_SV_0741.png/60px-Menu_SV_0741.png",
+    "name": "OricorioBaile Style",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/0/0f/Pokedex_Image_Oricorio_SV.png/256px-Pokedex_Image_Oricorio_SV.png"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f5/Menu_SV_0741-Pom-Pom.png/60px-Menu_SV_0741-Pom-Pom.png",
+    "name": "Flying"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/90/Menu_SV_0741-Pa%27u.png/60px-Menu_SV_0741-Pa%27u.png",
+    "name": "Flying"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/18/Menu_SV_0741-Sensu.png/60px-Menu_SV_0741-Sensu.png",
+    "name": "Flying"
+  },
+  {
+    "zenkokuId": 179,
+    "paldeaId": 101,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8d/Menu_SV_0179.png/60px-Menu_SV_0179.png",
+    "name": "Mareep"
+  },
+  {
+    "zenkokuId": 180,
+    "paldeaId": 102,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/17/Menu_SV_0180.png/60px-Menu_SV_0180.png",
+    "name": "Flaaffy"
+  },
+  {
+    "zenkokuId": 181,
+    "paldeaId": 103,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/26/Menu_SV_0181.png/60px-Menu_SV_0181.png",
+    "name": "Ampharos"
+  },
+  {
+    "zenkokuId": 548,
+    "paldeaId": 104,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/7c/Menu_SV_0548.png/60px-Menu_SV_0548.png",
+    "name": "Petilil"
+  },
+  {
+    "zenkokuId": 549,
+    "paldeaId": 105,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8b/Menu_SV_0549.png/60px-Menu_SV_0549.png",
+    "name": "Lilligant"
+  },
+  {
+    "zenkokuId": 285,
+    "paldeaId": 106,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/5f/Menu_SV_0285.png/60px-Menu_SV_0285.png",
+    "name": "Shroomish"
+  },
+  {
+    "zenkokuId": 286,
+    "paldeaId": 107,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c9/Menu_SV_0286.png/60px-Menu_SV_0286.png",
+    "name": "Breloom",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/3c/Pokedex_Image_Breloom_SV.png/256px-Pokedex_Image_Breloom_SV.png"
+  },
+  {
+    "zenkokuId": 840,
+    "paldeaId": 108,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/10/Menu_SV_0840.png/60px-Menu_SV_0840.png",
+    "name": "Applin",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/52/Pokedex_Image_Applin_SV.png/256px-Pokedex_Image_Applin_SV.png"
+  },
+  {
+    "zenkokuId": 841,
+    "paldeaId": 109,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e8/Menu_SV_0841.png/60px-Menu_SV_0841.png",
+    "name": "Flapple",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/36/Pokedex_Image_Flapple_SV.png/256px-Pokedex_Image_Flapple_SV.png"
+  },
+  {
+    "zenkokuId": 842,
+    "paldeaId": 110,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/27/Menu_SV_0842.png/60px-Menu_SV_0842.png",
+    "name": "Appletun",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/7/70/Pokedex_Image_Appletun_SV.png/256px-Pokedex_Image_Appletun_SV.png"
+  },
+  {
+    "zenkokuId": 325,
+    "paldeaId": 111,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/0d/Menu_SV_0325.png/60px-Menu_SV_0325.png",
+    "name": "Spoink"
+  },
+  {
+    "zenkokuId": 326,
+    "paldeaId": 112,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a9/Menu_SV_0326.png/60px-Menu_SV_0326.png",
+    "name": "Grumpig"
+  },
+  {
+    "zenkokuId": 931,
+    "paldeaId": 113,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/65/Menu_SV_0931.png/60px-Menu_SV_0931.png",
+    "name": "SquawkabillyGreen Plumage",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/7/76/Pokedex_Image_Squawkabilly_SV.png/256px-Pokedex_Image_Squawkabilly_SV.png"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f6/Menu_SV_0931-Blue.png/60px-Menu_SV_0931-Blue.png",
+    "name": "Flying"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/4d/Menu_SV_0931-Yellow.png/60px-Menu_SV_0931-Yellow.png",
+    "name": "Flying"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/3a/Menu_SV_0931-White.png/60px-Menu_SV_0931-White.png",
+    "name": "Flying"
+  },
+  {
+    "zenkokuId": 200,
+    "paldeaId": 114,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/68/Menu_SV_0200.png/60px-Menu_SV_0200.png",
+    "name": "Misdreavus"
+  },
+  {
+    "zenkokuId": 429,
+    "paldeaId": 115,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e0/Menu_SV_0429.png/60px-Menu_SV_0429.png",
+    "name": "Mismagius"
+  },
+  {
+    "zenkokuId": 296,
+    "paldeaId": 116,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/43/Menu_SV_0296.png/60px-Menu_SV_0296.png",
+    "name": "Makuhita"
+  },
+  {
+    "zenkokuId": 297,
+    "paldeaId": 117,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/90/Menu_SV_0297.png/60px-Menu_SV_0297.png",
+    "name": "Hariyama"
+  },
+  {
+    "zenkokuId": 739,
+    "paldeaId": 118,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/ac/Menu_SV_0739.png/60px-Menu_SV_0739.png",
+    "name": "Crabrawler"
+  },
+  {
+    "zenkokuId": 740,
+    "paldeaId": 119,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/3e/Menu_SV_0740.png/60px-Menu_SV_0740.png",
+    "name": "Crabominable",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/d2/Pokedex_Image_Crabominable_SV.png/256px-Pokedex_Image_Crabominable_SV.png"
+  },
+  {
+    "zenkokuId": 757,
+    "paldeaId": 120,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/71/Menu_SV_0757.png/60px-Menu_SV_0757.png",
+    "name": "Salandit",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/b/b3/Pokedex_Image_Salandit_SV.png/256px-Pokedex_Image_Salandit_SV.png"
+  },
+  {
+    "zenkokuId": 758,
+    "paldeaId": 121,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d1/Menu_SV_0758.png/60px-Menu_SV_0758.png",
+    "name": "Salazzle",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/f6/Pokedex_Image_Salazzle_SV.png/256px-Pokedex_Image_Salazzle_SV.png"
+  },
+  {
+    "zenkokuId": 231,
+    "paldeaId": 122,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/0b/Menu_SV_0231.png/60px-Menu_SV_0231.png",
+    "name": "Phanpy"
+  },
+  {
+    "zenkokuId": 232,
+    "paldeaId": 123,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a1/Menu_SV_0232.png/60px-Menu_SV_0232.png",
+    "name": "Donphan"
+  },
+  {
+    "zenkokuId": 878,
+    "paldeaId": 124,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d2/Menu_SV_0878.png/60px-Menu_SV_0878.png",
+    "name": "Cufant"
+  },
+  {
+    "zenkokuId": 879,
+    "paldeaId": 125,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9f/Menu_SV_0879.png/60px-Menu_SV_0879.png",
+    "name": "Copperajah"
+  },
+  {
+    "zenkokuId": 443,
+    "paldeaId": 126,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9b/Menu_SV_0443.png/60px-Menu_SV_0443.png",
+    "name": "Gible",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/2a/Pokedex_Image_Gible_SV.png/256px-Pokedex_Image_Gible_SV.png"
+  },
+  {
+    "zenkokuId": 444,
+    "paldeaId": 127,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/3a/Menu_SV_0444.png/60px-Menu_SV_0444.png",
+    "name": "Gabite",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/c/c9/Pokedex_Image_Gabite_SV.png/256px-Pokedex_Image_Gabite_SV.png"
+  },
+  {
+    "zenkokuId": 445,
+    "paldeaId": 128,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e2/Menu_SV_0445.png/60px-Menu_SV_0445.png",
+    "name": "Garchomp",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/13/Pokedex_Image_Garchomp_SV.png/256px-Pokedex_Image_Garchomp_SV.png"
+  },
+  {
+    "zenkokuId": 932,
+    "paldeaId": 129,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/3b/Menu_SV_0932.png/60px-Menu_SV_0932.png",
+    "name": "Nacli"
+  },
+  {
+    "zenkokuId": 933,
+    "paldeaId": 130,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/95/Menu_SV_0933.png/60px-Menu_SV_0933.png",
+    "name": "Naclstack"
+  },
+  {
+    "zenkokuId": 934,
+    "paldeaId": 131,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/48/Menu_SV_0934.png/60px-Menu_SV_0934.png",
+    "name": "Garganacl"
+  },
+  {
+    "zenkokuId": 278,
+    "paldeaId": 132,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6f/Menu_SV_0278.png/60px-Menu_SV_0278.png",
+    "name": "Wingull",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/67/Pokedex_Image_Wingull_SV.png/256px-Pokedex_Image_Wingull_SV.png"
+  },
+  {
+    "zenkokuId": 279,
+    "paldeaId": 133,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/ff/Menu_SV_0279.png/60px-Menu_SV_0279.png",
+    "name": "Pelipper",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/67/Pokedex_Image_Pelipper_SV.png/256px-Pokedex_Image_Pelipper_SV.png"
+  },
+  {
+    "zenkokuId": 129,
+    "paldeaId": 134,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c9/Menu_SV_0129.png/60px-Menu_SV_0129.png",
+    "name": "Magikarp"
+  },
+  {
+    "zenkokuId": 130,
+    "paldeaId": 135,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/81/Menu_SV_0130.png/60px-Menu_SV_0130.png",
+    "name": "Gyarados",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/13/Pokedex_Image_Gyarados_SV.png/256px-Pokedex_Image_Gyarados_SV.png"
+  },
+  {
+    "zenkokuId": 846,
+    "paldeaId": 136,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/59/Menu_SV_0846.png/60px-Menu_SV_0846.png",
+    "name": "Arrokuda"
+  },
+  {
+    "zenkokuId": 847,
+    "paldeaId": 137,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e8/Menu_SV_0847.png/60px-Menu_SV_0847.png",
+    "name": "Barraskewda"
+  },
+  {
+    "zenkokuId": 550,
+    "paldeaId": 138,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/13/Menu_SV_0550.png/60px-Menu_SV_0550.png",
+    "name": "BasculinRed-Striped Form"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/ba/Menu_SV_0550-Blue.png/60px-Menu_SV_0550-Blue.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": 316,
+    "paldeaId": 139,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/79/Menu_SV_0316.png/60px-Menu_SV_0316.png",
+    "name": "Gulpin"
+  },
+  {
+    "zenkokuId": 317,
+    "paldeaId": 140,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/de/Menu_SV_0317.png/60px-Menu_SV_0317.png",
+    "name": "Swalot"
+  },
+  {
+    "zenkokuId": 52,
+    "paldeaId": 141,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9c/Menu_SV_0052.png/60px-Menu_SV_0052.png",
+    "name": "Meowth"
+  },
+  {
+    "zenkokuId": 53,
+    "paldeaId": 142,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b8/Menu_SV_0053.png/60px-Menu_SV_0053.png",
+    "name": "Persian"
+  },
+  {
+    "zenkokuId": 425,
+    "paldeaId": 143,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f2/Menu_SV_0425.png/60px-Menu_SV_0425.png",
+    "name": "Drifloon",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/40/Pokedex_Image_Drifloon_SV.png/256px-Pokedex_Image_Drifloon_SV.png"
+  },
+  {
+    "zenkokuId": 426,
+    "paldeaId": 144,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/ff/Menu_SV_0426.png/60px-Menu_SV_0426.png",
+    "name": "Drifblim",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/d8/Pokedex_Image_Drifblim_SV.png/256px-Pokedex_Image_Drifblim_SV.png"
+  },
+  {
+    "zenkokuId": 669,
+    "paldeaId": 145,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d3/Menu_SV_0669.png/60px-Menu_SV_0669.png",
+    "name": "FlabébéRed Flower"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/5e/Menu_SV_0669-Yellow.png/60px-Menu_SV_0669-Yellow.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/97/Menu_SV_0669-Orange.png/60px-Menu_SV_0669-Orange.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/92/Menu_SV_0669-Blue.png/60px-Menu_SV_0669-Blue.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c5/Menu_SV_0669-White.png/60px-Menu_SV_0669-White.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": 670,
+    "paldeaId": 146,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/3d/Menu_SV_0670.png/60px-Menu_SV_0670.png",
+    "name": "FloetteRed Flower"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/98/Menu_SV_0670-Yellow.png/60px-Menu_SV_0670-Yellow.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d3/Menu_SV_0670-Orange.png/60px-Menu_SV_0670-Orange.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/1c/Menu_SV_0670-Blue.png/60px-Menu_SV_0670-Blue.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e5/Menu_SV_0670-White.png/60px-Menu_SV_0670-White.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": 671,
+    "paldeaId": 147,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/09/Menu_SV_0671.png/60px-Menu_SV_0671.png",
+    "name": "FlorgesRed Flower"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/32/Menu_SV_0671-Yellow.png/60px-Menu_SV_0671-Yellow.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/4b/Menu_SV_0671-Orange.png/60px-Menu_SV_0671-Orange.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a7/Menu_SV_0671-Blue.png/60px-Menu_SV_0671-Blue.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/40/Menu_SV_0671-White.png/60px-Menu_SV_0671-White.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": 50,
+    "paldeaId": 148,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/ea/Menu_SV_0050.png/60px-Menu_SV_0050.png",
+    "name": "Diglett"
+  },
+  {
+    "zenkokuId": 51,
+    "paldeaId": 149,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e3/Menu_SV_0051.png/60px-Menu_SV_0051.png",
+    "name": "Dugtrio"
+  },
+  {
+    "zenkokuId": 324,
+    "paldeaId": 150,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/61/Menu_SV_0324.png/60px-Menu_SV_0324.png",
+    "name": "Torkoal"
+  },
+  {
+    "zenkokuId": 322,
+    "paldeaId": 151,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/5e/Menu_SV_0322.png/60px-Menu_SV_0322.png",
+    "name": "Numel",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/e/ea/Pokedex_Image_Numel_SV.png/256px-Pokedex_Image_Numel_SV.png"
+  },
+  {
+    "zenkokuId": 323,
+    "paldeaId": 152,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/05/Menu_SV_0323.png/60px-Menu_SV_0323.png",
+    "name": "Camerupt",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/6c/Pokedex_Image_Camerupt_SV.png/256px-Pokedex_Image_Camerupt_SV.png"
+  },
+  {
+    "zenkokuId": 436,
+    "paldeaId": 153,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/2c/Menu_SV_0436.png/60px-Menu_SV_0436.png",
+    "name": "Bronzor",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/2a/Pokedex_Image_Bronzor_SV.png/256px-Pokedex_Image_Bronzor_SV.png"
+  },
+  {
+    "zenkokuId": 437,
+    "paldeaId": 154,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9c/Menu_SV_0437.png/60px-Menu_SV_0437.png",
+    "name": "Bronzong",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/f3/Pokedex_Image_Bronzong_SV.png/256px-Pokedex_Image_Bronzong_SV.png"
+  },
+  {
+    "zenkokuId": 610,
+    "paldeaId": 155,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/93/Menu_SV_0610.png/60px-Menu_SV_0610.png",
+    "name": "Axew"
+  },
+  {
+    "zenkokuId": 611,
+    "paldeaId": 156,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/2f/Menu_SV_0611.png/60px-Menu_SV_0611.png",
+    "name": "Fraxure"
+  },
+  {
+    "zenkokuId": 612,
+    "paldeaId": 157,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9c/Menu_SV_0612.png/60px-Menu_SV_0612.png",
+    "name": "Haxorus"
+  },
+  {
+    "zenkokuId": 56,
+    "paldeaId": 158,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d2/Menu_SV_0056.png/60px-Menu_SV_0056.png",
+    "name": "Mankey"
+  },
+  {
+    "zenkokuId": 57,
+    "paldeaId": 159,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/34/Menu_SV_0057.png/60px-Menu_SV_0057.png",
+    "name": "Primeape"
+  },
+  {
+    "zenkokuId": 979,
+    "paldeaId": 160,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/60/Menu_SV_0979.png/60px-Menu_SV_0979.png",
+    "name": "Annihilape",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/3e/Pokedex_Image_Annihilape_SV.png/256px-Pokedex_Image_Annihilape_SV.png"
+  },
+  {
+    "zenkokuId": 307,
+    "paldeaId": 161,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/83/Menu_SV_0307.png/60px-Menu_SV_0307.png",
+    "name": "Meditite",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/af/Pokedex_Image_Meditite_SV.png/256px-Pokedex_Image_Meditite_SV.png"
+  },
+  {
+    "zenkokuId": 308,
+    "paldeaId": 162,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/fe/Menu_SV_0308.png/60px-Menu_SV_0308.png",
+    "name": "Medicham",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/e/eb/Pokedex_Image_Medicham_SV.png/256px-Pokedex_Image_Medicham_SV.png"
+  },
+  {
+    "zenkokuId": 447,
+    "paldeaId": 163,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/48/Menu_SV_0447.png/60px-Menu_SV_0447.png",
+    "name": "Riolu"
+  },
+  {
+    "zenkokuId": 448,
+    "paldeaId": 164,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/4b/Menu_SV_0448.png/60px-Menu_SV_0448.png",
+    "name": "Lucario",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/94/Pokedex_Image_Lucario_SV.png/256px-Pokedex_Image_Lucario_SV.png"
+  },
+  {
+    "zenkokuId": 935,
+    "paldeaId": 165,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/bf/Menu_SV_0935.png/60px-Menu_SV_0935.png",
+    "name": "Charcadet"
+  },
+  {
+    "zenkokuId": 936,
+    "paldeaId": 166,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/1f/Menu_SV_0936.png/60px-Menu_SV_0936.png",
+    "name": "Armarouge",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/9a/Pokedex_Image_Armarouge_SV.png/256px-Pokedex_Image_Armarouge_SV.png"
+  },
+  {
+    "zenkokuId": 937,
+    "paldeaId": 167,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/29/Menu_SV_0937.png/60px-Menu_SV_0937.png",
+    "name": "Ceruledge",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/64/Pokedex_Image_Ceruledge_SV.png/256px-Pokedex_Image_Ceruledge_SV.png"
+  },
+  {
+    "zenkokuId": 339,
+    "paldeaId": 168,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/db/Menu_SV_0339.png/60px-Menu_SV_0339.png",
+    "name": "Barboach",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/8/87/Pokedex_Image_Barboach_SV.png/256px-Pokedex_Image_Barboach_SV.png"
+  },
+  {
+    "zenkokuId": 340,
+    "paldeaId": 169,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/59/Menu_SV_0340.png/60px-Menu_SV_0340.png",
+    "name": "Whiscash",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/2e/Pokedex_Image_Whiscash_SV.png/256px-Pokedex_Image_Whiscash_SV.png"
+  },
+  {
+    "zenkokuId": 938,
+    "paldeaId": 170,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/7f/Menu_SV_0938.png/60px-Menu_SV_0938.png",
+    "name": "Tadbulb"
+  },
+  {
+    "zenkokuId": 939,
+    "paldeaId": 171,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e4/Menu_SV_0939.png/60px-Menu_SV_0939.png",
+    "name": "Bellibolt"
+  },
+  {
+    "zenkokuId": 704,
+    "paldeaId": 172,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/27/Menu_SV_0704.png/60px-Menu_SV_0704.png",
+    "name": "Goomy"
+  },
+  {
+    "zenkokuId": 705,
+    "paldeaId": 173,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/dc/Menu_SV_0705.png/60px-Menu_SV_0705.png",
+    "name": "Sliggoo"
+  },
+  {
+    "zenkokuId": 706,
+    "paldeaId": 174,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d2/Menu_SV_0706.png/60px-Menu_SV_0706.png",
+    "name": "Goodra"
+  },
+  {
+    "zenkokuId": 453,
+    "paldeaId": 175,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/41/Menu_SV_0453.png/60px-Menu_SV_0453.png",
+    "name": "Croagunk",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/92/Pokedex_Image_Croagunk_SV.png/256px-Pokedex_Image_Croagunk_SV.png"
+  },
+  {
+    "zenkokuId": 454,
+    "paldeaId": 176,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/85/Menu_SV_0454.png/60px-Menu_SV_0454.png",
+    "name": "Toxicroak",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/8/8d/Pokedex_Image_Toxicroak_SV.png/256px-Pokedex_Image_Toxicroak_SV.png"
+  },
+  {
+    "zenkokuId": 940,
+    "paldeaId": 177,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/90/Menu_SV_0940.png/60px-Menu_SV_0940.png",
+    "name": "Wattrel",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/c/c8/Pokedex_Image_Wattrel_SV.png/256px-Pokedex_Image_Wattrel_SV.png"
+  },
+  {
+    "zenkokuId": 941,
+    "paldeaId": 178,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/91/Menu_SV_0941.png/60px-Menu_SV_0941.png",
+    "name": "Kilowattrel",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/b/b2/Pokedex_Image_Kilowattrel_SV.png/256px-Pokedex_Image_Kilowattrel_SV.png"
+  },
+  {
+    "zenkokuId": 133,
+    "paldeaId": 179,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/2f/Menu_SV_0133.png/60px-Menu_SV_0133.png",
+    "name": "Eevee"
+  },
+  {
+    "zenkokuId": 134,
+    "paldeaId": 180,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/1f/Menu_SV_0134.png/60px-Menu_SV_0134.png",
+    "name": "Vaporeon"
+  },
+  {
+    "zenkokuId": 135,
+    "paldeaId": 181,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d6/Menu_SV_0135.png/60px-Menu_SV_0135.png",
+    "name": "Jolteon"
+  },
+  {
+    "zenkokuId": 136,
+    "paldeaId": 182,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f9/Menu_SV_0136.png/60px-Menu_SV_0136.png",
+    "name": "Flareon"
+  },
+  {
+    "zenkokuId": 196,
+    "paldeaId": 183,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/ed/Menu_SV_0196.png/60px-Menu_SV_0196.png",
+    "name": "Espeon"
+  },
+  {
+    "zenkokuId": 197,
+    "paldeaId": 184,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/1f/Menu_SV_0197.png/60px-Menu_SV_0197.png",
+    "name": "Umbreon"
+  },
+  {
+    "zenkokuId": 470,
+    "paldeaId": 185,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/29/Menu_SV_0470.png/60px-Menu_SV_0470.png",
+    "name": "Leafeon"
+  },
+  {
+    "zenkokuId": 471,
+    "paldeaId": 186,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d3/Menu_SV_0471.png/60px-Menu_SV_0471.png",
+    "name": "Glaceon"
+  },
+  {
+    "zenkokuId": 700,
+    "paldeaId": 187,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6a/Menu_SV_0700.png/60px-Menu_SV_0700.png",
+    "name": "Sylveon"
+  },
+  {
+    "zenkokuId": 206,
+    "paldeaId": 188,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/43/Menu_SV_0206.png/60px-Menu_SV_0206.png",
+    "name": "Dunsparce"
+  },
+  {
+    "zenkokuId": 982,
+    "paldeaId": 189,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8b/Menu_SV_0982.png/60px-Menu_SV_0982.png",
+    "name": "Dudunsparce"
+  },
+  {
+    "zenkokuId": 585,
+    "paldeaId": 190,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f0/Menu_SV_0585.png/60px-Menu_SV_0585.png",
+    "name": "DeerlingSpring Form",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/27/Pokedex_Image_Deerling_SV.png/256px-Pokedex_Image_Deerling_SV.png"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/99/Menu_SV_0585-Summer.png/60px-Menu_SV_0585-Summer.png",
+    "name": "Grass"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8e/Menu_SV_0585-Autumn.png/60px-Menu_SV_0585-Autumn.png",
+    "name": "Grass"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b2/Menu_SV_0585-Winter.png/60px-Menu_SV_0585-Winter.png",
+    "name": "Grass"
+  },
+  {
+    "zenkokuId": 586,
+    "paldeaId": 191,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/4a/Menu_SV_0586.png/60px-Menu_SV_0586.png",
+    "name": "SawsbuckSpring Form",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/dc/Pokedex_Image_Sawsbuck_SV.png/256px-Pokedex_Image_Sawsbuck_SV.png"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/41/Menu_SV_0586-Summer.png/60px-Menu_SV_0586-Summer.png",
+    "name": "Grass"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/13/Menu_SV_0586-Autumn.png/60px-Menu_SV_0586-Autumn.png",
+    "name": "Grass"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/2b/Menu_SV_0586-Winter.png/60px-Menu_SV_0586-Winter.png",
+    "name": "Grass"
+  },
+  {
+    "zenkokuId": 203,
+    "paldeaId": 192,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/03/Menu_SV_0203.png/60px-Menu_SV_0203.png",
+    "name": "Girafarig",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/5c/Pokedex_Image_Girafarig_SV.png/256px-Pokedex_Image_Girafarig_SV.png"
+  },
+  {
+    "zenkokuId": 981,
+    "paldeaId": 193,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/ee/Menu_SV_0981.png/60px-Menu_SV_0981.png",
+    "name": "Farigiraf",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/54/Pokedex_Image_Farigiraf_SV.png/256px-Pokedex_Image_Farigiraf_SV.png"
+  },
+  {
+    "zenkokuId": 88,
+    "paldeaId": 194,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f0/Menu_SV_0088.png/60px-Menu_SV_0088.png",
+    "name": "Grimer"
+  },
+  {
+    "zenkokuId": 89,
+    "paldeaId": 195,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/0a/Menu_SV_0089.png/60px-Menu_SV_0089.png",
+    "name": "Muk"
+  },
+  {
+    "zenkokuId": 942,
+    "paldeaId": 196,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/7c/Menu_SV_0942.png/60px-Menu_SV_0942.png",
+    "name": "Maschiff"
+  },
+  {
+    "zenkokuId": 943,
+    "paldeaId": 197,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/1f/Menu_SV_0943.png/60px-Menu_SV_0943.png",
+    "name": "Mabosstiff"
+  },
+  {
+    "zenkokuId": 848,
+    "paldeaId": 198,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/fd/Menu_SV_0848.png/60px-Menu_SV_0848.png",
+    "name": "Toxel",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/62/Pokedex_Image_Toxel_SV.png/256px-Pokedex_Image_Toxel_SV.png"
+  },
+  {
+    "zenkokuId": 849,
+    "paldeaId": 199,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/34/Menu_SV_0849.png/60px-Menu_SV_0849.png",
+    "name": "ToxtricityAmped Form",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/2a/Pokedex_Image_Toxtricity_SV.png/256px-Pokedex_Image_Toxtricity_SV.png"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/05/Menu_SV_0849-Low_Key.png/60px-Menu_SV_0849-Low_Key.png",
+    "name": "Poison"
+  },
+  {
+    "zenkokuId": 702,
+    "paldeaId": 200,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/90/Menu_SV_0702.png/60px-Menu_SV_0702.png",
+    "name": "Dedenne",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/af/Pokedex_Image_Dedenne_SV.png/256px-Pokedex_Image_Dedenne_SV.png"
+  },
+  {
+    "zenkokuId": 417,
+    "paldeaId": 201,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b3/Menu_SV_0417.png/60px-Menu_SV_0417.png",
+    "name": "Pachirisu"
+  },
+  {
+    "zenkokuId": 944,
+    "paldeaId": 202,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f4/Menu_SV_0944.png/60px-Menu_SV_0944.png",
+    "name": "Shroodle",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/da/Pokedex_Image_Shroodle_SV.png/256px-Pokedex_Image_Shroodle_SV.png"
+  },
+  {
+    "zenkokuId": 945,
+    "paldeaId": 203,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/71/Menu_SV_0945.png/60px-Menu_SV_0945.png",
+    "name": "Grafaiai",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/32/Pokedex_Image_Grafaiai_SV.png/256px-Pokedex_Image_Grafaiai_SV.png"
+  },
+  {
+    "zenkokuId": 234,
+    "paldeaId": 204,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d4/Menu_SV_0234.png/60px-Menu_SV_0234.png",
+    "name": "Stantler"
+  },
+  {
+    "zenkokuId": 590,
+    "paldeaId": 205,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/51/Menu_SV_0590.png/60px-Menu_SV_0590.png",
+    "name": "Foongus",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/b/ba/Pokedex_Image_Foongus_SV.png/256px-Pokedex_Image_Foongus_SV.png"
+  },
+  {
+    "zenkokuId": 591,
+    "paldeaId": 206,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/ac/Menu_SV_0591.png/60px-Menu_SV_0591.png",
+    "name": "Amoonguss",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/4f/Pokedex_Image_Amoonguss_SV.png/256px-Pokedex_Image_Amoonguss_SV.png"
+  },
+  {
+    "zenkokuId": 100,
+    "paldeaId": 207,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/cf/Menu_SV_0100.png/60px-Menu_SV_0100.png",
+    "name": "Voltorb"
+  },
+  {
+    "zenkokuId": 101,
+    "paldeaId": 208,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/62/Menu_SV_0101.png/60px-Menu_SV_0101.png",
+    "name": "Electrode"
+  },
+  {
+    "zenkokuId": 81,
+    "paldeaId": 209,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/37/Menu_SV_0081.png/60px-Menu_SV_0081.png",
+    "name": "Magnemite",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/6f/Pokedex_Image_Magnemite_SV.png/256px-Pokedex_Image_Magnemite_SV.png"
+  },
+  {
+    "zenkokuId": 82,
+    "paldeaId": 210,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/cc/Menu_SV_0082.png/60px-Menu_SV_0082.png",
+    "name": "Magneton",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/9f/Pokedex_Image_Magneton_SV.png/256px-Pokedex_Image_Magneton_SV.png"
+  },
+  {
+    "zenkokuId": 462,
+    "paldeaId": 211,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/fb/Menu_SV_0462.png/60px-Menu_SV_0462.png",
+    "name": "Magnezone",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/5c/Pokedex_Image_Magnezone_SV.png/256px-Pokedex_Image_Magnezone_SV.png"
+  },
+  {
+    "zenkokuId": 132,
+    "paldeaId": 212,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d7/Menu_SV_0132.png/60px-Menu_SV_0132.png",
+    "name": "Ditto"
+  },
+  {
+    "zenkokuId": 58,
+    "paldeaId": 213,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/1b/Menu_SV_0058.png/60px-Menu_SV_0058.png",
+    "name": "Growlithe"
+  },
+  {
+    "zenkokuId": 59,
+    "paldeaId": 214,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/98/Menu_SV_0059.png/60px-Menu_SV_0059.png",
+    "name": "Arcanine"
+  },
+  {
+    "zenkokuId": 216,
+    "paldeaId": 215,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f9/Menu_SV_0216.png/60px-Menu_SV_0216.png",
+    "name": "Teddiursa"
+  },
+  {
+    "zenkokuId": 217,
+    "paldeaId": 216,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/11/Menu_SV_0217.png/60px-Menu_SV_0217.png",
+    "name": "Ursaring"
+  },
+  {
+    "zenkokuId": 335,
+    "paldeaId": 217,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/2b/Menu_SV_0335.png/60px-Menu_SV_0335.png",
+    "name": "Zangoose"
+  },
+  {
+    "zenkokuId": 336,
+    "paldeaId": 218,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d4/Menu_SV_0336.png/60px-Menu_SV_0336.png",
+    "name": "Seviper"
+  },
+  {
+    "zenkokuId": 333,
+    "paldeaId": 219,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6a/Menu_SV_0333.png/60px-Menu_SV_0333.png",
+    "name": "Swablu",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/62/Pokedex_Image_Swablu_SV.png/256px-Pokedex_Image_Swablu_SV.png"
+  },
+  {
+    "zenkokuId": 334,
+    "paldeaId": 220,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a6/Menu_SV_0334.png/60px-Menu_SV_0334.png",
+    "name": "Altaria",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/d5/Pokedex_Image_Altaria_SV.png/256px-Pokedex_Image_Altaria_SV.png"
+  },
+  {
+    "zenkokuId": 672,
+    "paldeaId": 221,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a7/Menu_SV_0672.png/60px-Menu_SV_0672.png",
+    "name": "Skiddo"
+  },
+  {
+    "zenkokuId": 673,
+    "paldeaId": 222,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/30/Menu_SV_0673.png/60px-Menu_SV_0673.png",
+    "name": "Gogoat"
+  },
+  {
+    "zenkokuId": 128,
+    "paldeaId": 223,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6e/Menu_SV_0128-Paldea_Combat.png/60px-Menu_SV_0128-Paldea_Combat.png",
+    "name": "TaurosPaldean Form(Combat Breed)"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6f/Menu_SV_0128-Paldea_Blaze.png/60px-Menu_SV_0128-Paldea_Blaze.png",
+    "name": "Fire"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/cb/Menu_SV_0128-Paldea_Aqua.png/60px-Menu_SV_0128-Paldea_Aqua.png",
+    "name": "Water"
+  },
+  {
+    "zenkokuId": 667,
+    "paldeaId": 224,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6a/Menu_SV_0667.png/60px-Menu_SV_0667.png",
+    "name": "Litleo",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/4b/Pokedex_Image_Litleo_SV.png/256px-Pokedex_Image_Litleo_SV.png"
+  },
+  {
+    "zenkokuId": 668,
+    "paldeaId": 225,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/79/Menu_SV_0668.png/60px-Menu_SV_0668.png",
+    "name": "PyroarMale",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/5e/Pokedex_Image_Pyroar_SV.png/256px-Pokedex_Image_Pyroar_SV.png"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/dd/Menu_SV_0668-Female.png/60px-Menu_SV_0668-Female.png",
+    "name": "Normal"
+  },
+  {
+    "zenkokuId": 434,
+    "paldeaId": 226,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9b/Menu_SV_0434.png/60px-Menu_SV_0434.png",
+    "name": "Stunky",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/e/e2/Pokedex_Image_Stunky_SV.png/256px-Pokedex_Image_Stunky_SV.png"
+  },
+  {
+    "zenkokuId": 435,
+    "paldeaId": 227,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6e/Menu_SV_0435.png/60px-Menu_SV_0435.png",
+    "name": "Skuntank",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/39/Pokedex_Image_Skuntank_SV.png/256px-Pokedex_Image_Skuntank_SV.png"
+  },
+  {
+    "zenkokuId": 570,
+    "paldeaId": 228,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/11/Menu_SV_0570.png/60px-Menu_SV_0570.png",
+    "name": "Zorua"
+  },
+  {
+    "zenkokuId": 571,
+    "paldeaId": 229,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/39/Menu_SV_0571.png/60px-Menu_SV_0571.png",
+    "name": "Zoroark"
+  },
+  {
+    "zenkokuId": 215,
+    "paldeaId": 230,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/11/Menu_SV_0215.png/60px-Menu_SV_0215.png",
+    "name": "Sneasel",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/39/Pokedex_Image_Sneasel_SV.png/256px-Pokedex_Image_Sneasel_SV.png"
+  },
+  {
+    "zenkokuId": 461,
+    "paldeaId": 231,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a0/Menu_SV_0461.png/60px-Menu_SV_0461.png",
+    "name": "Weavile",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/6d/Pokedex_Image_Weavile_SV.png/256px-Pokedex_Image_Weavile_SV.png"
+  },
+  {
+    "zenkokuId": 198,
+    "paldeaId": 232,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/1c/Menu_SV_0198.png/60px-Menu_SV_0198.png",
+    "name": "Murkrow",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/a1/Pokedex_Image_Murkrow_SV.png/256px-Pokedex_Image_Murkrow_SV.png"
+  },
+  {
+    "zenkokuId": 430,
+    "paldeaId": 233,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/49/Menu_SV_0430.png/60px-Menu_SV_0430.png",
+    "name": "Honchkrow",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/91/Pokedex_Image_Honchkrow_SV.png/256px-Pokedex_Image_Honchkrow_SV.png"
+  },
+  {
+    "zenkokuId": 574,
+    "paldeaId": 234,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/5d/Menu_SV_0574.png/60px-Menu_SV_0574.png",
+    "name": "Gothita"
+  },
+  {
+    "zenkokuId": 575,
+    "paldeaId": 235,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/50/Menu_SV_0575.png/60px-Menu_SV_0575.png",
+    "name": "Gothorita"
+  },
+  {
+    "zenkokuId": 576,
+    "paldeaId": 236,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/18/Menu_SV_0576.png/60px-Menu_SV_0576.png",
+    "name": "Gothitelle"
+  },
+  {
+    "zenkokuId": 854,
+    "paldeaId": 237,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6a/Menu_SV_0854.png/60px-Menu_SV_0854.png",
+    "name": "Sinistea"
+  },
+  {
+    "zenkokuId": 855,
+    "paldeaId": 238,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b9/Menu_SV_0855.png/60px-Menu_SV_0855.png",
+    "name": "Polteageist"
+  },
+  {
+    "zenkokuId": 778,
+    "paldeaId": 239,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b0/Menu_SV_0778.png/60px-Menu_SV_0778.png",
+    "name": "Mimikyu",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/58/Pokedex_Image_Mimikyu_SV.png/256px-Pokedex_Image_Mimikyu_SV.png"
+  },
+  {
+    "zenkokuId": 707,
+    "paldeaId": 240,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/75/Menu_SV_0707.png/60px-Menu_SV_0707.png",
+    "name": "Klefki",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/a0/Pokedex_Image_Klefki_SV.png/256px-Pokedex_Image_Klefki_SV.png"
+  },
+  {
+    "zenkokuId": 876,
+    "paldeaId": 241,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/00/Menu_SV_0876.png/60px-Menu_SV_0876.png",
+    "name": "IndeedeeMale",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/d8/Pokedex_Image_Indeedee_SV.png/256px-Pokedex_Image_Indeedee_SV.png"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/3c/Menu_SV_0876-Female.png/60px-Menu_SV_0876-Female.png",
+    "name": "Normal"
+  },
+  {
+    "zenkokuId": 946,
+    "paldeaId": 242,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/db/Menu_SV_0946.png/60px-Menu_SV_0946.png",
+    "name": "Bramblin",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/57/Pokedex_Image_Bramblin_SV.png/256px-Pokedex_Image_Bramblin_SV.png"
+  },
+  {
+    "zenkokuId": 947,
+    "paldeaId": 243,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/30/Menu_SV_0947.png/60px-Menu_SV_0947.png",
+    "name": "Brambleghast",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/15/Pokedex_Image_Brambleghast_SV.png/256px-Pokedex_Image_Brambleghast_SV.png"
+  },
+  {
+    "zenkokuId": 948,
+    "paldeaId": 244,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/7f/Menu_SV_0948.png/60px-Menu_SV_0948.png",
+    "name": "Toedscool",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/e/ed/Pokedex_Image_Toedscool_SV.png/256px-Pokedex_Image_Toedscool_SV.png"
+  },
+  {
+    "zenkokuId": 949,
+    "paldeaId": 245,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6c/Menu_SV_0949.png/60px-Menu_SV_0949.png",
+    "name": "Toedscruel",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/99/Pokedex_Image_Toedscruel_SV.png/256px-Pokedex_Image_Toedscruel_SV.png"
+  },
+  {
+    "zenkokuId": 357,
+    "paldeaId": 246,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/72/Menu_SV_0357.png/60px-Menu_SV_0357.png",
+    "name": "Tropius",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/39/Pokedex_Image_Tropius_SV.png/256px-Pokedex_Image_Tropius_SV.png"
+  },
+  {
+    "zenkokuId": 753,
+    "paldeaId": 247,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/53/Menu_SV_0753.png/60px-Menu_SV_0753.png",
+    "name": "Fomantis"
+  },
+  {
+    "zenkokuId": 754,
+    "paldeaId": 248,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c2/Menu_SV_0754.png/60px-Menu_SV_0754.png",
+    "name": "Lurantis"
+  },
+  {
+    "zenkokuId": 950,
+    "paldeaId": 249,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e0/Menu_SV_0950.png/60px-Menu_SV_0950.png",
+    "name": "Klawf"
+  },
+  {
+    "zenkokuId": 951,
+    "paldeaId": 250,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/de/Menu_SV_0951.png/60px-Menu_SV_0951.png",
+    "name": "Capsakid"
+  },
+  {
+    "zenkokuId": 952,
+    "paldeaId": 251,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/25/Menu_SV_0952.png/60px-Menu_SV_0952.png",
+    "name": "Scovillain",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/c/c6/Pokedex_Image_Scovillain_SV.png/256px-Pokedex_Image_Scovillain_SV.png"
+  },
+  {
+    "zenkokuId": 331,
+    "paldeaId": 252,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/66/Menu_SV_0331.png/60px-Menu_SV_0331.png",
+    "name": "Cacnea"
+  },
+  {
+    "zenkokuId": 332,
+    "paldeaId": 253,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f7/Menu_SV_0332.png/60px-Menu_SV_0332.png",
+    "name": "Cacturne",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/40/Pokedex_Image_Cacturne_SV.png/256px-Pokedex_Image_Cacturne_SV.png"
+  },
+  {
+    "zenkokuId": 953,
+    "paldeaId": 254,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/df/Menu_SV_0953.png/60px-Menu_SV_0953.png",
+    "name": "Rellor"
+  },
+  {
+    "zenkokuId": 954,
+    "paldeaId": 255,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c1/Menu_SV_0954.png/60px-Menu_SV_0954.png",
+    "name": "Rabsca",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/b/b3/Pokedex_Image_Rabsca_SV.png/256px-Pokedex_Image_Rabsca_SV.png"
+  },
+  {
+    "zenkokuId": 48,
+    "paldeaId": 256,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/82/Menu_SV_0048.png/60px-Menu_SV_0048.png",
+    "name": "Venonat",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/98/Pokedex_Image_Venonat_SV.png/256px-Pokedex_Image_Venonat_SV.png"
+  },
+  {
+    "zenkokuId": 49,
+    "paldeaId": 257,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/56/Menu_SV_0049.png/60px-Menu_SV_0049.png",
+    "name": "Venomoth",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/fc/Pokedex_Image_Venomoth_SV.png/256px-Pokedex_Image_Venomoth_SV.png"
+  },
+  {
+    "zenkokuId": 204,
+    "paldeaId": 258,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/7f/Menu_SV_0204.png/60px-Menu_SV_0204.png",
+    "name": "Pineco"
+  },
+  {
+    "zenkokuId": 205,
+    "paldeaId": 259,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/63/Menu_SV_0205.png/60px-Menu_SV_0205.png",
+    "name": "Forretress",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/a7/Pokedex_Image_Forretress_SV.png/256px-Pokedex_Image_Forretress_SV.png"
+  },
+  {
+    "zenkokuId": 123,
+    "paldeaId": 260,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/ba/Menu_SV_0123.png/60px-Menu_SV_0123.png",
+    "name": "Scyther",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/92/Pokedex_Image_Scyther_SV.png/256px-Pokedex_Image_Scyther_SV.png"
+  },
+  {
+    "zenkokuId": 212,
+    "paldeaId": 261,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/22/Menu_SV_0212.png/60px-Menu_SV_0212.png",
+    "name": "Scizor",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/13/Pokedex_Image_Scizor_SV.png/256px-Pokedex_Image_Scizor_SV.png"
+  },
+  {
+    "zenkokuId": 214,
+    "paldeaId": 262,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/5a/Menu_SV_0214.png/60px-Menu_SV_0214.png",
+    "name": "Heracross",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/8/8c/Pokedex_Image_Heracross_SV.png/256px-Pokedex_Image_Heracross_SV.png"
+  },
+  {
+    "zenkokuId": 955,
+    "paldeaId": 263,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c2/Menu_SV_0955.png/60px-Menu_SV_0955.png",
+    "name": "Flittle"
+  },
+  {
+    "zenkokuId": 956,
+    "paldeaId": 264,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/83/Menu_SV_0956.png/60px-Menu_SV_0956.png",
+    "name": "Espathra"
+  },
+  {
+    "zenkokuId": 449,
+    "paldeaId": 265,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b0/Menu_SV_0449.png/60px-Menu_SV_0449.png",
+    "name": "Hippopotas"
+  },
+  {
+    "zenkokuId": 450,
+    "paldeaId": 266,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/3c/Menu_SV_0450.png/60px-Menu_SV_0450.png",
+    "name": "Hippowdon"
+  },
+  {
+    "zenkokuId": 551,
+    "paldeaId": 267,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f3/Menu_SV_0551.png/60px-Menu_SV_0551.png",
+    "name": "Sandile",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/4d/Pokedex_Image_Sandile_SV.png/256px-Pokedex_Image_Sandile_SV.png"
+  },
+  {
+    "zenkokuId": 552,
+    "paldeaId": 268,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9c/Menu_SV_0552.png/60px-Menu_SV_0552.png",
+    "name": "Krokorok",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/e/ed/Pokedex_Image_Krokorok_SV.png/256px-Pokedex_Image_Krokorok_SV.png"
+  },
+  {
+    "zenkokuId": 553,
+    "paldeaId": 269,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/07/Menu_SV_0553.png/60px-Menu_SV_0553.png",
+    "name": "Krookodile",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/6d/Pokedex_Image_Krookodile_SV.png/256px-Pokedex_Image_Krookodile_SV.png"
+  },
+  {
+    "zenkokuId": 843,
+    "paldeaId": 270,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/5a/Menu_SV_0843.png/60px-Menu_SV_0843.png",
+    "name": "Silicobra"
+  },
+  {
+    "zenkokuId": 844,
+    "paldeaId": 271,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a9/Menu_SV_0844.png/60px-Menu_SV_0844.png",
+    "name": "Sandaconda"
+  },
+  {
+    "zenkokuId": 749,
+    "paldeaId": 272,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6d/Menu_SV_0749.png/60px-Menu_SV_0749.png",
+    "name": "Mudbray"
+  },
+  {
+    "zenkokuId": 750,
+    "paldeaId": 273,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/33/Menu_SV_0750.png/60px-Menu_SV_0750.png",
+    "name": "Mudsdale"
+  },
+  {
+    "zenkokuId": 636,
+    "paldeaId": 274,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/56/Menu_SV_0636.png/60px-Menu_SV_0636.png",
+    "name": "Larvesta",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/2f/Pokedex_Image_Larvesta_SV.png/256px-Pokedex_Image_Larvesta_SV.png"
+  },
+  {
+    "zenkokuId": 637,
+    "paldeaId": 275,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/5a/Menu_SV_0637.png/60px-Menu_SV_0637.png",
+    "name": "Volcarona",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/12/Pokedex_Image_Volcarona_SV.png/256px-Pokedex_Image_Volcarona_SV.png"
+  },
+  {
+    "zenkokuId": 371,
+    "paldeaId": 276,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a5/Menu_SV_0371.png/60px-Menu_SV_0371.png",
+    "name": "Bagon"
+  },
+  {
+    "zenkokuId": 372,
+    "paldeaId": 277,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/1a/Menu_SV_0372.png/60px-Menu_SV_0372.png",
+    "name": "Shelgon"
+  },
+  {
+    "zenkokuId": 373,
+    "paldeaId": 278,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/93/Menu_SV_0373.png/60px-Menu_SV_0373.png",
+    "name": "Salamence",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/40/Pokedex_Image_Salamence_SV.png/256px-Pokedex_Image_Salamence_SV.png"
+  },
+  {
+    "zenkokuId": 957,
+    "paldeaId": 279,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/53/Menu_SV_0957.png/60px-Menu_SV_0957.png",
+    "name": "Tinkatink",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/7/7f/Pokedex_Image_Tinkatink_SV.png/256px-Pokedex_Image_Tinkatink_SV.png"
+  },
+  {
+    "zenkokuId": 958,
+    "paldeaId": 280,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/da/Menu_SV_0958.png/60px-Menu_SV_0958.png",
+    "name": "Tinkatuff",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/2e/Pokedex_Image_Tinkatuff_SV.png/256px-Pokedex_Image_Tinkatuff_SV.png"
+  },
+  {
+    "zenkokuId": 959,
+    "paldeaId": 281,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/cc/Menu_SV_0959.png/60px-Menu_SV_0959.png",
+    "name": "Tinkaton",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/37/Pokedex_Image_Tinkaton_SV.png/256px-Pokedex_Image_Tinkaton_SV.png"
+  },
+  {
+    "zenkokuId": 856,
+    "paldeaId": 282,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9b/Menu_SV_0856.png/60px-Menu_SV_0856.png",
+    "name": "Hatenna"
+  },
+  {
+    "zenkokuId": 857,
+    "paldeaId": 283,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/15/Menu_SV_0857.png/60px-Menu_SV_0857.png",
+    "name": "Hattrem"
+  },
+  {
+    "zenkokuId": 858,
+    "paldeaId": 284,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/10/Menu_SV_0858.png/60px-Menu_SV_0858.png",
+    "name": "Hatterene",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/b/b9/Pokedex_Image_Hatterene_SV.png/256px-Pokedex_Image_Hatterene_SV.png"
+  },
+  {
+    "zenkokuId": 859,
+    "paldeaId": 285,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6a/Menu_SV_0859.png/60px-Menu_SV_0859.png",
+    "name": "Impidimp",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/d2/Pokedex_Image_Impidimp_SV.png/256px-Pokedex_Image_Impidimp_SV.png"
+  },
+  {
+    "zenkokuId": 860,
+    "paldeaId": 286,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e6/Menu_SV_0860.png/60px-Menu_SV_0860.png",
+    "name": "Morgrem",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/b/be/Pokedex_Image_Morgrem_SV.png/256px-Pokedex_Image_Morgrem_SV.png"
+  },
+  {
+    "zenkokuId": 861,
+    "paldeaId": 287,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/da/Menu_SV_0861.png/60px-Menu_SV_0861.png",
+    "name": "Grimmsnarl",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/56/Pokedex_Image_Grimmsnarl_SV.png/256px-Pokedex_Image_Grimmsnarl_SV.png"
+  },
+  {
+    "zenkokuId": 960,
+    "paldeaId": 288,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/0a/Menu_SV_0960.png/60px-Menu_SV_0960.png",
+    "name": "Wiglett"
+  },
+  {
+    "zenkokuId": 961,
+    "paldeaId": 289,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/68/Menu_SV_0961.png/60px-Menu_SV_0961.png",
+    "name": "Wugtrio"
+  },
+  {
+    "zenkokuId": 962,
+    "paldeaId": 290,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9f/Menu_SV_0962.png/60px-Menu_SV_0962.png",
+    "name": "Bombirdier",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/d5/Pokedex_Image_Bombirdier_SV.png/256px-Pokedex_Image_Bombirdier_SV.png"
+  },
+  {
+    "zenkokuId": 963,
+    "paldeaId": 291,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/34/Menu_SV_0963.png/60px-Menu_SV_0963.png",
+    "name": "Finizen"
+  },
+  {
+    "zenkokuId": 964,
+    "paldeaId": 292,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e6/Menu_SV_0964.png/60px-Menu_SV_0964.png",
+    "name": "PalafinZero Form"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/1d/Menu_SV_0964-Hero.png/60px-Menu_SV_0964-Hero.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": 965,
+    "paldeaId": 293,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/eb/Menu_SV_0965.png/60px-Menu_SV_0965.png",
+    "name": "Varoom",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/c/cd/Pokedex_Image_Varoom_SV.png/256px-Pokedex_Image_Varoom_SV.png"
+  },
+  {
+    "zenkokuId": 966,
+    "paldeaId": 294,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e9/Menu_SV_0966.png/60px-Menu_SV_0966.png",
+    "name": "Revavroom",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/0/0f/Pokedex_Image_Revavroom_SV.png/256px-Pokedex_Image_Revavroom_SV.png"
+  },
+  {
+    "zenkokuId": 967,
+    "paldeaId": 295,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/35/Menu_SV_0967.png/60px-Menu_SV_0967.png",
+    "name": "Cyclizar",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/a8/Pokedex_Image_Cyclizar_SV.png/256px-Pokedex_Image_Cyclizar_SV.png"
+  },
+  {
+    "zenkokuId": 968,
+    "paldeaId": 296,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e1/Menu_SV_0968.png/60px-Menu_SV_0968.png",
+    "name": "Orthworm"
+  },
+  {
+    "zenkokuId": 302,
+    "paldeaId": 297,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f4/Menu_SV_0302.png/60px-Menu_SV_0302.png",
+    "name": "Sableye",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/34/Pokedex_Image_Sableye_SV.png/256px-Pokedex_Image_Sableye_SV.png"
+  },
+  {
+    "zenkokuId": 353,
+    "paldeaId": 298,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a2/Menu_SV_0353.png/60px-Menu_SV_0353.png",
+    "name": "Shuppet"
+  },
+  {
+    "zenkokuId": 354,
+    "paldeaId": 299,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/7b/Menu_SV_0354.png/60px-Menu_SV_0354.png",
+    "name": "Banette"
+  },
+  {
+    "zenkokuId": 870,
+    "paldeaId": 300,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/11/Menu_SV_0870.png/60px-Menu_SV_0870.png",
+    "name": "Falinks"
+  },
+  {
+    "zenkokuId": 701,
+    "paldeaId": 301,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/af/Menu_SV_0701.png/60px-Menu_SV_0701.png",
+    "name": "Hawlucha",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/2b/Pokedex_Image_Hawlucha_SV.png/256px-Pokedex_Image_Hawlucha_SV.png"
+  },
+  {
+    "zenkokuId": 442,
+    "paldeaId": 302,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/0f/Menu_SV_0442.png/60px-Menu_SV_0442.png",
+    "name": "Spiritomb",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/2c/Pokedex_Image_Spiritomb_SV.png/256px-Pokedex_Image_Spiritomb_SV.png"
+  },
+  {
+    "zenkokuId": 714,
+    "paldeaId": 303,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8b/Menu_SV_0714.png/60px-Menu_SV_0714.png",
+    "name": "Noibat",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/c/c0/Pokedex_Image_Noibat_SV.png/256px-Pokedex_Image_Noibat_SV.png"
+  },
+  {
+    "zenkokuId": 715,
+    "paldeaId": 304,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/fd/Menu_SV_0715.png/60px-Menu_SV_0715.png",
+    "name": "Noivern",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/f0/Pokedex_Image_Noivern_SV.png/256px-Pokedex_Image_Noivern_SV.png"
+  },
+  {
+    "zenkokuId": 885,
+    "paldeaId": 305,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b5/Menu_SV_0885.png/60px-Menu_SV_0885.png",
+    "name": "Dreepy",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/1d/Pokedex_Image_Dreepy_SV.png/256px-Pokedex_Image_Dreepy_SV.png"
+  },
+  {
+    "zenkokuId": 886,
+    "paldeaId": 306,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/12/Menu_SV_0886.png/60px-Menu_SV_0886.png",
+    "name": "Drakloak",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/0/0a/Pokedex_Image_Drakloak_SV.png/256px-Pokedex_Image_Drakloak_SV.png"
+  },
+  {
+    "zenkokuId": 887,
+    "paldeaId": 307,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/4e/Menu_SV_0887.png/60px-Menu_SV_0887.png",
+    "name": "Dragapult",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/23/Pokedex_Image_Dragapult_SV.png/256px-Pokedex_Image_Dragapult_SV.png"
+  },
+  {
+    "zenkokuId": 969,
+    "paldeaId": 308,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/4c/Menu_SV_0969.png/60px-Menu_SV_0969.png",
+    "name": "Glimmet",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/ae/Pokedex_Image_Glimmet_SV.png/256px-Pokedex_Image_Glimmet_SV.png"
+  },
+  {
+    "zenkokuId": 970,
+    "paldeaId": 309,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b1/Menu_SV_0970.png/60px-Menu_SV_0970.png",
+    "name": "Glimmora",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/f2/Pokedex_Image_Glimmora_SV.png/256px-Pokedex_Image_Glimmora_SV.png"
+  },
+  {
+    "zenkokuId": 479,
+    "paldeaId": 310,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/80/Menu_SV_0479.png/60px-Menu_SV_0479.png",
+    "name": "Rotom",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/8/8d/Pokedex_Image_Rotom_SV.png/256px-Pokedex_Image_Rotom_SV.png"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/4b/Menu_SV_0479-Heat.png/60px-Menu_SV_0479-Heat.png",
+    "name": "Fire"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/26/Menu_SV_0479-Wash.png/60px-Menu_SV_0479-Wash.png",
+    "name": "Water"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/20/Menu_SV_0479-Frost.png/60px-Menu_SV_0479-Frost.png",
+    "name": "Ice"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/28/Menu_SV_0479-Fan.png/60px-Menu_SV_0479-Fan.png",
+    "name": "Flying"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/99/Menu_SV_0479-Mow.png/60px-Menu_SV_0479-Mow.png",
+    "name": "Grass"
+  },
+  {
+    "zenkokuId": 971,
+    "paldeaId": 311,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/fe/Menu_SV_0971.png/60px-Menu_SV_0971.png",
+    "name": "Greavard"
+  },
+  {
+    "zenkokuId": 972,
+    "paldeaId": 312,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/03/Menu_SV_0972.png/60px-Menu_SV_0972.png",
+    "name": "Houndstone"
+  },
+  {
+    "zenkokuId": 765,
+    "paldeaId": 313,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/54/Menu_SV_0765.png/60px-Menu_SV_0765.png",
+    "name": "Oranguru",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/f4/Pokedex_Image_Oranguru_SV.png/256px-Pokedex_Image_Oranguru_SV.png"
+  },
+  {
+    "zenkokuId": 766,
+    "paldeaId": 314,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8a/Menu_SV_0766.png/60px-Menu_SV_0766.png",
+    "name": "Passimian"
+  },
+  {
+    "zenkokuId": 775,
+    "paldeaId": 315,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/03/Menu_SV_0775.png/60px-Menu_SV_0775.png",
+    "name": "Komala"
+  },
+  {
+    "zenkokuId": 246,
+    "paldeaId": 316,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f7/Menu_SV_0246.png/60px-Menu_SV_0246.png",
+    "name": "Larvitar",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/a8/Pokedex_Image_Larvitar_SV.png/256px-Pokedex_Image_Larvitar_SV.png"
+  },
+  {
+    "zenkokuId": 247,
+    "paldeaId": 317,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/37/Menu_SV_0247.png/60px-Menu_SV_0247.png",
+    "name": "Pupitar",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/33/Pokedex_Image_Pupitar_SV.png/256px-Pokedex_Image_Pupitar_SV.png"
+  },
+  {
+    "zenkokuId": 248,
+    "paldeaId": 318,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/49/Menu_SV_0248.png/60px-Menu_SV_0248.png",
+    "name": "Tyranitar",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/c/cb/Pokedex_Image_Tyranitar_SV.png/256px-Pokedex_Image_Tyranitar_SV.png"
+  },
+  {
+    "zenkokuId": 874,
+    "paldeaId": 319,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b7/Menu_SV_0874.png/60px-Menu_SV_0874.png",
+    "name": "Stonjourner"
+  },
+  {
+    "zenkokuId": 875,
+    "paldeaId": 320,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e2/Menu_SV_0875.png/60px-Menu_SV_0875.png",
+    "name": "Eiscue"
+  },
+  {
+    "zenkokuId": 871,
+    "paldeaId": 321,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f8/Menu_SV_0871.png/60px-Menu_SV_0871.png",
+    "name": "Pincurchin"
+  },
+  {
+    "zenkokuId": 769,
+    "paldeaId": 322,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/43/Menu_SV_0769.png/60px-Menu_SV_0769.png",
+    "name": "Sandygast",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/1d/Pokedex_Image_Sandygast_SV.png/256px-Pokedex_Image_Sandygast_SV.png"
+  },
+  {
+    "zenkokuId": 770,
+    "paldeaId": 323,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c6/Menu_SV_0770.png/60px-Menu_SV_0770.png",
+    "name": "Palossand",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/94/Pokedex_Image_Palossand_SV.png/256px-Pokedex_Image_Palossand_SV.png"
+  },
+  {
+    "zenkokuId": 79,
+    "paldeaId": 324,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/48/Menu_SV_0079.png/60px-Menu_SV_0079.png",
+    "name": "Slowpoke",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/df/Pokedex_Image_Slowpoke_SV.png/256px-Pokedex_Image_Slowpoke_SV.png"
+  },
+  {
+    "zenkokuId": 80,
+    "paldeaId": 325,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/ac/Menu_SV_0080.png/60px-Menu_SV_0080.png",
+    "name": "Slowbro",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/19/Pokedex_Image_Slowbro_SV.png/256px-Pokedex_Image_Slowbro_SV.png"
+  },
+  {
+    "zenkokuId": 199,
+    "paldeaId": 326,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d5/Menu_SV_0199.png/60px-Menu_SV_0199.png",
+    "name": "Slowking",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/18/Pokedex_Image_Slowking_SV.png/256px-Pokedex_Image_Slowking_SV.png"
+  },
+  {
+    "zenkokuId": 422,
+    "paldeaId": 327,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c6/Menu_SV_0422.png/60px-Menu_SV_0422.png",
+    "name": "ShellosWest Sea"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/00/Menu_SV_0422-East.png/60px-Menu_SV_0422-East.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": 423,
+    "paldeaId": 328,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/77/Menu_SV_0423.png/60px-Menu_SV_0423.png",
+    "name": "GastrodonWest Sea",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/db/Pokedex_Image_Gastrodon_SV.png/256px-Pokedex_Image_Gastrodon_SV.png"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c8/Menu_SV_0423-East.png/60px-Menu_SV_0423-East.png",
+    "name": "Ground"
+  },
+  {
+    "zenkokuId": 90,
+    "paldeaId": 329,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e2/Menu_SV_0090.png/60px-Menu_SV_0090.png",
+    "name": "Shellder"
+  },
+  {
+    "zenkokuId": 91,
+    "paldeaId": 330,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c9/Menu_SV_0091.png/60px-Menu_SV_0091.png",
+    "name": "Cloyster",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/0/08/Pokedex_Image_Cloyster_SV.png/256px-Pokedex_Image_Cloyster_SV.png"
+  },
+  {
+    "zenkokuId": 211,
+    "paldeaId": 331,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/75/Menu_SV_0211.png/60px-Menu_SV_0211.png",
+    "name": "Qwilfish",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/c/c6/Pokedex_Image_Qwilfish_SV.png/256px-Pokedex_Image_Qwilfish_SV.png"
+  },
+  {
+    "zenkokuId": 370,
+    "paldeaId": 332,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/72/Menu_SV_0370.png/60px-Menu_SV_0370.png",
+    "name": "Luvdisc"
+  },
+  {
+    "zenkokuId": 456,
+    "paldeaId": 333,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/ac/Menu_SV_0456.png/60px-Menu_SV_0456.png",
+    "name": "Finneon"
+  },
+  {
+    "zenkokuId": 457,
+    "paldeaId": 334,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e9/Menu_SV_0457.png/60px-Menu_SV_0457.png",
+    "name": "Lumineon"
+  },
+  {
+    "zenkokuId": 779,
+    "paldeaId": 335,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/79/Menu_SV_0779.png/60px-Menu_SV_0779.png",
+    "name": "Bruxish",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/fb/Pokedex_Image_Bruxish_SV.png/256px-Pokedex_Image_Bruxish_SV.png"
+  },
+  {
+    "zenkokuId": 594,
+    "paldeaId": 336,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/ce/Menu_SV_0594.png/60px-Menu_SV_0594.png",
+    "name": "Alomomola"
+  },
+  {
+    "zenkokuId": 690,
+    "paldeaId": 337,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f0/Menu_SV_0690.png/60px-Menu_SV_0690.png",
+    "name": "Skrelp",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/2/27/Pokedex_Image_Skrelp_SV.png/256px-Pokedex_Image_Skrelp_SV.png"
+  },
+  {
+    "zenkokuId": 691,
+    "paldeaId": 338,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d4/Menu_SV_0691.png/60px-Menu_SV_0691.png",
+    "name": "Dragalge",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/19/Pokedex_Image_Dragalge_SV.png/256px-Pokedex_Image_Dragalge_SV.png"
+  },
+  {
+    "zenkokuId": 692,
+    "paldeaId": 339,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/11/Menu_SV_0692.png/60px-Menu_SV_0692.png",
+    "name": "Clauncher"
+  },
+  {
+    "zenkokuId": 693,
+    "paldeaId": 340,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/71/Menu_SV_0693.png/60px-Menu_SV_0693.png",
+    "name": "Clawitzer"
+  },
+  {
+    "zenkokuId": 602,
+    "paldeaId": 341,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/58/Menu_SV_0602.png/60px-Menu_SV_0602.png",
+    "name": "Tynamo"
+  },
+  {
+    "zenkokuId": 603,
+    "paldeaId": 342,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/40/Menu_SV_0603.png/60px-Menu_SV_0603.png",
+    "name": "Eelektrik"
+  },
+  {
+    "zenkokuId": 604,
+    "paldeaId": 343,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a1/Menu_SV_0604.png/60px-Menu_SV_0604.png",
+    "name": "Eelektross"
+  },
+  {
+    "zenkokuId": 747,
+    "paldeaId": 344,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/5b/Menu_SV_0747.png/60px-Menu_SV_0747.png",
+    "name": "Mareanie",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/fa/Pokedex_Image_Mareanie_SV.png/256px-Pokedex_Image_Mareanie_SV.png"
+  },
+  {
+    "zenkokuId": 748,
+    "paldeaId": 345,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/5c/Menu_SV_0748.png/60px-Menu_SV_0748.png",
+    "name": "Toxapex",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/0/0f/Pokedex_Image_Toxapex_SV.png/256px-Pokedex_Image_Toxapex_SV.png"
+  },
+  {
+    "zenkokuId": 973,
+    "paldeaId": 346,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f7/Menu_SV_0973.png/60px-Menu_SV_0973.png",
+    "name": "Flamigo",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/55/Pokedex_Image_Flamigo_SV.png/256px-Pokedex_Image_Flamigo_SV.png"
+  },
+  {
+    "zenkokuId": 147,
+    "paldeaId": 347,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/59/Menu_SV_0147.png/60px-Menu_SV_0147.png",
+    "name": "Dratini"
+  },
+  {
+    "zenkokuId": 148,
+    "paldeaId": 348,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/87/Menu_SV_0148.png/60px-Menu_SV_0148.png",
+    "name": "Dragonair"
+  },
+  {
+    "zenkokuId": 149,
+    "paldeaId": 349,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/17/Menu_SV_0149.png/60px-Menu_SV_0149.png",
+    "name": "Dragonite",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/56/Pokedex_Image_Dragonite_SV.png/256px-Pokedex_Image_Dragonite_SV.png"
+  },
+  {
+    "zenkokuId": 872,
+    "paldeaId": 350,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/16/Menu_SV_0872.png/60px-Menu_SV_0872.png",
+    "name": "Snom",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/7/70/Pokedex_Image_Snom_SV.png/256px-Pokedex_Image_Snom_SV.png"
+  },
+  {
+    "zenkokuId": 873,
+    "paldeaId": 351,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f6/Menu_SV_0873.png/60px-Menu_SV_0873.png",
+    "name": "Frosmoth",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/e/e5/Pokedex_Image_Frosmoth_SV.png/256px-Pokedex_Image_Frosmoth_SV.png"
+  },
+  {
+    "zenkokuId": 459,
+    "paldeaId": 352,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8e/Menu_SV_0459.png/60px-Menu_SV_0459.png",
+    "name": "Snover",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/e/ec/Pokedex_Image_Snover_SV.png/256px-Pokedex_Image_Snover_SV.png"
+  },
+  {
+    "zenkokuId": 460,
+    "paldeaId": 353,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e8/Menu_SV_0460.png/60px-Menu_SV_0460.png",
+    "name": "Abomasnow",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/7/70/Pokedex_Image_Abomasnow_SV.png/256px-Pokedex_Image_Abomasnow_SV.png"
+  },
+  {
+    "zenkokuId": 225,
+    "paldeaId": 354,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9a/Menu_SV_0225.png/60px-Menu_SV_0225.png",
+    "name": "Delibird",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/44/Pokedex_Image_Delibird_SV.png/256px-Pokedex_Image_Delibird_SV.png"
+  },
+  {
+    "zenkokuId": 613,
+    "paldeaId": 355,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/84/Menu_SV_0613.png/60px-Menu_SV_0613.png",
+    "name": "Cubchoo"
+  },
+  {
+    "zenkokuId": 614,
+    "paldeaId": 356,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a4/Menu_SV_0614.png/60px-Menu_SV_0614.png",
+    "name": "Beartic"
+  },
+  {
+    "zenkokuId": 361,
+    "paldeaId": 357,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/d4/Menu_SV_0361.png/60px-Menu_SV_0361.png",
+    "name": "Snorunt"
+  },
+  {
+    "zenkokuId": 362,
+    "paldeaId": 358,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/12/Menu_SV_0362.png/60px-Menu_SV_0362.png",
+    "name": "Glalie"
+  },
+  {
+    "zenkokuId": 478,
+    "paldeaId": 359,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/ae/Menu_SV_0478.png/60px-Menu_SV_0478.png",
+    "name": "Froslass",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/e/eb/Pokedex_Image_Froslass_SV.png/256px-Pokedex_Image_Froslass_SV.png"
+  },
+  {
+    "zenkokuId": 615,
+    "paldeaId": 360,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/eb/Menu_SV_0615.png/60px-Menu_SV_0615.png",
+    "name": "Cryogonal"
+  },
+  {
+    "zenkokuId": 974,
+    "paldeaId": 361,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/ee/Menu_SV_0974.png/60px-Menu_SV_0974.png",
+    "name": "Cetoddle"
+  },
+  {
+    "zenkokuId": 975,
+    "paldeaId": 362,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/15/Menu_SV_0975.png/60px-Menu_SV_0975.png",
+    "name": "Cetitan"
+  },
+  {
+    "zenkokuId": 712,
+    "paldeaId": 363,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/0a/Menu_SV_0712.png/60px-Menu_SV_0712.png",
+    "name": "Bergmite"
+  },
+  {
+    "zenkokuId": 713,
+    "paldeaId": 364,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/57/Menu_SV_0713.png/60px-Menu_SV_0713.png",
+    "name": "Avalugg"
+  },
+  {
+    "zenkokuId": 627,
+    "paldeaId": 365,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/a2/Menu_SV_0627.png/60px-Menu_SV_0627.png",
+    "name": "Rufflet",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/b/b4/Pokedex_Image_Rufflet_SV.png/256px-Pokedex_Image_Rufflet_SV.png"
+  },
+  {
+    "zenkokuId": 628,
+    "paldeaId": 366,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/a/ae/Menu_SV_0628.png/60px-Menu_SV_0628.png",
+    "name": "Braviary",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/68/Pokedex_Image_Braviary_SV.png/256px-Pokedex_Image_Braviary_SV.png"
+  },
+  {
+    "zenkokuId": 624,
+    "paldeaId": 367,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/51/Menu_SV_0624.png/60px-Menu_SV_0624.png",
+    "name": "Pawniard",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/1a/Pokedex_Image_Pawniard_SV.png/256px-Pokedex_Image_Pawniard_SV.png"
+  },
+  {
+    "zenkokuId": 625,
+    "paldeaId": 368,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/08/Menu_SV_0625.png/60px-Menu_SV_0625.png",
+    "name": "Bisharp",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/9b/Pokedex_Image_Bisharp_SV.png/256px-Pokedex_Image_Bisharp_SV.png"
+  },
+  {
+    "zenkokuId": 983,
+    "paldeaId": 369,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/7e/Menu_SV_0983.png/60px-Menu_SV_0983.png",
+    "name": "Kingambit",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/8/89/Pokedex_Image_Kingambit_SV.png/256px-Pokedex_Image_Kingambit_SV.png"
+  },
+  {
+    "zenkokuId": 633,
+    "paldeaId": 370,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/68/Menu_SV_0633.png/60px-Menu_SV_0633.png",
+    "name": "Deino",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/1c/Pokedex_Image_Deino_SV.png/256px-Pokedex_Image_Deino_SV.png"
+  },
+  {
+    "zenkokuId": 634,
+    "paldeaId": 371,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/2e/Menu_SV_0634.png/60px-Menu_SV_0634.png",
+    "name": "Zweilous",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/8/8c/Pokedex_Image_Zweilous_SV.png/256px-Pokedex_Image_Zweilous_SV.png"
+  },
+  {
+    "zenkokuId": 635,
+    "paldeaId": 372,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/f/f3/Menu_SV_0635.png/60px-Menu_SV_0635.png",
+    "name": "Hydreigon",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/50/Pokedex_Image_Hydreigon_SV.png/256px-Pokedex_Image_Hydreigon_SV.png"
+  },
+  {
+    "zenkokuId": 976,
+    "paldeaId": 373,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e7/Menu_SV_0976.png/60px-Menu_SV_0976.png",
+    "name": "Veluza",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/7/7f/Pokedex_Image_Veluza_SV.png/256px-Pokedex_Image_Veluza_SV.png"
+  },
+  {
+    "zenkokuId": 977,
+    "paldeaId": 374,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/59/Menu_SV_0977.png/60px-Menu_SV_0977.png",
+    "name": "Dondozo"
+  },
+  {
+    "zenkokuId": 978,
+    "paldeaId": 375,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/4e/Menu_SV_0978-Curly.png/60px-Menu_SV_0978-Curly.png",
+    "name": "TatsugiriCurly Form",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/e/ea/Pokedex_Image_Tatsugiri_SV.png/256px-Pokedex_Image_Tatsugiri_SV.png"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e9/Menu_SV_0978-Droopy.png/60px-Menu_SV_0978-Droopy.png",
+    "name": "Water"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/4e/Menu_SV_0978-Stretchy.png/60px-Menu_SV_0978-Stretchy.png",
+    "name": "Water"
+  },
+  {
+    "zenkokuId": 984,
+    "paldeaId": 376,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/be/Menu_SV_0984.png/60px-Menu_SV_0984.png",
+    "name": "Great Tusk",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/0/0c/Pokedex_Image_Great_Tusk_SV.png/256px-Pokedex_Image_Great_Tusk_SV.png"
+  },
+  {
+    "zenkokuId": 985,
+    "paldeaId": 377,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/11/Menu_SV_0985.png/60px-Menu_SV_0985.png",
+    "name": "Scream Tail",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/54/Pokedex_Image_Scream_Tail_SV.png/256px-Pokedex_Image_Scream_Tail_SV.png"
+  },
+  {
+    "zenkokuId": 986,
+    "paldeaId": 378,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/8/8b/Menu_SV_0986.png/60px-Menu_SV_0986.png",
+    "name": "Brute Bonnet",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/ae/Pokedex_Image_Brute_Bonnet_SV.png/256px-Pokedex_Image_Brute_Bonnet_SV.png"
+  },
+  {
+    "zenkokuId": 987,
+    "paldeaId": 379,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/c/c7/Menu_SV_0987.png/60px-Menu_SV_0987.png",
+    "name": "Flutter Mane",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/55/Pokedex_Image_Flutter_Mane_SV.png/256px-Pokedex_Image_Flutter_Mane_SV.png"
+  },
+  {
+    "zenkokuId": 988,
+    "paldeaId": 380,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/2/29/Menu_SV_0988.png/60px-Menu_SV_0988.png",
+    "name": "Slither Wing",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/16/Pokedex_Image_Slither_Wing_SV.png/256px-Pokedex_Image_Slither_Wing_SV.png"
+  },
+  {
+    "zenkokuId": 989,
+    "paldeaId": 381,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/7c/Menu_SV_0989.png/60px-Menu_SV_0989.png",
+    "name": "Sandy Shocks",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/6/6a/Pokedex_Image_Sandy_Shocks_SV.png/256px-Pokedex_Image_Sandy_Shocks_SV.png"
+  },
+  {
+    "zenkokuId": 990,
+    "paldeaId": 382,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e2/Menu_SV_0990.png/60px-Menu_SV_0990.png",
+    "name": "Iron Treads",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/9a/Pokedex_Image_Iron_Treads_SV.png/256px-Pokedex_Image_Iron_Treads_SV.png"
+  },
+  {
+    "zenkokuId": 991,
+    "paldeaId": 383,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/ec/Menu_SV_0991.png/60px-Menu_SV_0991.png",
+    "name": "Iron Bundle",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/91/Pokedex_Image_Iron_Bundle_SV.png/256px-Pokedex_Image_Iron_Bundle_SV.png"
+  },
+  {
+    "zenkokuId": 992,
+    "paldeaId": 384,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/65/Menu_SV_0992.png/60px-Menu_SV_0992.png",
+    "name": "Iron Hands",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/10/Pokedex_Image_Iron_Hands_SV.png/256px-Pokedex_Image_Iron_Hands_SV.png"
+  },
+  {
+    "zenkokuId": 993,
+    "paldeaId": 385,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/d/dc/Menu_SV_0993.png/60px-Menu_SV_0993.png",
+    "name": "Iron Jugulis",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/a/a0/Pokedex_Image_Iron_Jugulis_SV.png/256px-Pokedex_Image_Iron_Jugulis_SV.png"
+  },
+  {
+    "zenkokuId": 994,
+    "paldeaId": 386,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/3/3d/Menu_SV_0994.png/60px-Menu_SV_0994.png",
+    "name": "Iron Moth",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/d6/Pokedex_Image_Iron_Moth_SV.png/256px-Pokedex_Image_Iron_Moth_SV.png"
+  },
+  {
+    "zenkokuId": 995,
+    "paldeaId": 387,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/0/02/Menu_SV_0995.png/60px-Menu_SV_0995.png",
+    "name": "Iron Thorns",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/7/7d/Pokedex_Image_Iron_Thorns_SV.png/256px-Pokedex_Image_Iron_Thorns_SV.png"
+  },
+  {
+    "zenkokuId": 996,
+    "paldeaId": 388,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/1/17/Menu_SV_0996.png/60px-Menu_SV_0996.png",
+    "name": "Frigibax",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/9/95/Pokedex_Image_Frigibax_SV.png/256px-Pokedex_Image_Frigibax_SV.png"
+  },
+  {
+    "zenkokuId": 997,
+    "paldeaId": 389,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/6d/Menu_SV_0997.png/60px-Menu_SV_0997.png",
+    "name": "Arctibax",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/d/da/Pokedex_Image_Arctibax_SV.png/256px-Pokedex_Image_Arctibax_SV.png"
+  },
+  {
+    "zenkokuId": 998,
+    "paldeaId": 390,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/91/Menu_SV_0998.png/60px-Menu_SV_0998.png",
+    "name": "Baxcalibur",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/4/4a/Pokedex_Image_Baxcalibur_SV.png/256px-Pokedex_Image_Baxcalibur_SV.png"
+  },
+  {
+    "zenkokuId": 999,
+    "paldeaId": 391,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/9/9d/Menu_SV_0999.png/60px-Menu_SV_0999.png",
+    "name": "GimmighoulChest Form"
+  },
+  {
+    "zenkokuId": null,
+    "paldeaId": null,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/6/64/Menu_SV_0999-Roaming.png/60px-Menu_SV_0999-Roaming.png",
+    "name": ""
+  },
+  {
+    "zenkokuId": 1000,
+    "paldeaId": 392,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/b9/Menu_SV_1000.png/60px-Menu_SV_1000.png",
+    "name": "Gholdengo",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/b/b0/Pokedex_Image_Gholdengo_SV.png/256px-Pokedex_Image_Gholdengo_SV.png"
+  },
+  {
+    "zenkokuId": 1001,
+    "paldeaId": 393,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/4/49/Menu_SV_1001.png/60px-Menu_SV_1001.png",
+    "name": "Wo-Chien",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/0/00/Pokedex_Image_Wo-Chien_SV.png/256px-Pokedex_Image_Wo-Chien_SV.png"
+  },
+  {
+    "zenkokuId": 1002,
+    "paldeaId": 394,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/ed/Menu_SV_1002.png/60px-Menu_SV_1002.png",
+    "name": "Chien-Pao",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/0/06/Pokedex_Image_Chien-Pao_SV.png/256px-Pokedex_Image_Chien-Pao_SV.png"
+  },
+  {
+    "zenkokuId": 1003,
+    "paldeaId": 395,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/77/Menu_SV_1003.png/60px-Menu_SV_1003.png",
+    "name": "Ting-Lu",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/5/58/Pokedex_Image_Ting-Lu_SV.png/256px-Pokedex_Image_Ting-Lu_SV.png"
+  },
+  {
+    "zenkokuId": 1004,
+    "paldeaId": 396,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/7d/Menu_SV_1004.png/60px-Menu_SV_1004.png",
+    "name": "Chi-Yu",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/3e/Pokedex_Image_Chi-Yu_SV.png/256px-Pokedex_Image_Chi-Yu_SV.png"
+  },
+  {
+    "zenkokuId": 1005,
+    "paldeaId": 397,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/e/e7/Menu_SV_1005.png/60px-Menu_SV_1005.png",
+    "name": "Roaring Moon",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/3/3c/Pokedex_Image_Roaring_Moon_SV.png/256px-Pokedex_Image_Roaring_Moon_SV.png"
+  },
+  {
+    "zenkokuId": 1006,
+    "paldeaId": 398,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/b/bc/Menu_SV_1006.png/60px-Menu_SV_1006.png",
+    "name": "Iron Valiant",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/1/16/Pokedex_Image_Iron_Valiant_SV.png/256px-Pokedex_Image_Iron_Valiant_SV.png"
+  },
+  {
+    "zenkokuId": 1007,
+    "paldeaId": 399,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/7/79/Menu_SV_1007.png/60px-Menu_SV_1007.png",
+    "name": "Koraidon",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/c/ca/Pokedex_Image_Koraidon_SV.png/256px-Pokedex_Image_Koraidon_SV.png"
+  },
+  {
+    "zenkokuId": 1008,
+    "paldeaId": 400,
+    "icon": "//archives.bulbagarden.net/media/upload/thumb/5/53/Menu_SV_1008.png/60px-Menu_SV_1008.png",
+    "name": "Miraidon",
+    "pokedexImageUrl": "//archives.bulbagarden.net/media/upload/thumb/f/fa/Pokedex_Image_Miraidon_SV.png/256px-Pokedex_Image_Miraidon_SV.png"
+  }
+]
