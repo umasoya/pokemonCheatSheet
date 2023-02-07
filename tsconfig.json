@@ -5,5 +5,10 @@
     "strict": true,
     "skipLibCheck": true,
     "sourceMap": true,
+    "jsx": "react",
+    "lib": ["DOM", "ES2016"],
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "isolatedModules": false,
   }
 }
